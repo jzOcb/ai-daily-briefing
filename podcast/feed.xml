@@ -5,13 +5,25 @@
     <description>每天 5 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</description>
     <link>https://jzocb.github.io/ai-daily-briefing/</link>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 07 Mar 2026 00:05:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 20:36:37 +0000</lastBuildDate>
     <itunes:author>JZ Briefing Ops</itunes:author>
     <itunes:summary>每天 5 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</itunes:summary>
     <itunes:category text="Technology" />
     <itunes:image href="https://jzocb.github.io/ai-daily-briefing/podcast-cover.png" />
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://jzocb.github.io/ai-daily-briefing/podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>早上好，这里是你的 AI Daily Briefing，由 JZ Briefing Ops 为你整理准备。今天是 2026-03-07。</title>
+      <description>AI Daily Briefing 2026-03-07</description>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-03-07-----------AI-Daily-Briefing---JZ-Briefing-Ops------------2026-03-07-70f39df2</guid>
+      <enclosure url="https://assets.listenhub.ai/listenhub-public-prod/podcast/69ac8c440d2b9461e4d33253.mp3" type="audio/mpeg" length="0" />
+      <itunes:author>JZ Briefing Ops</itunes:author>
+      <itunes:summary>AI Daily Briefing 2026-03-07</itunes:summary>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#1 Anthropic被五角大楼封杀</title>
       <description>AI Daily Briefing 2026.03.06</description>
