@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>JZ Briefing Ops - AI Daily Briefing</title>
+    <description>每天 5 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</description>
+    <link>https://example.github.io/ai-daily-briefing/</link>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 07 Mar 2026 00:05:35 +0000</lastBuildDate>
+    <itunes:author>JZ Briefing Ops</itunes:author>
+    <itunes:summary>每天 5 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</itunes:summary>
+    <itunes:category text="Technology" />
+    <itunes:image href="https://example.com/podcast-cover.png" />
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://example.github.io/ai-daily-briefing/podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#1 Anthropic被五角大楼封杀</title>
+      <description>AI Daily Briefing 2026.03.06</description>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-03-06--1-Anthropic-d663caf0</guid>
+      <enclosure url="https://assets.listenhub.ai/listenhub-public-prod/podcast/69ab60491a8ea4644b490731.mp3" type="audio/mpeg" length="0" />
+      <itunes:author>JZ Briefing Ops</itunes:author>
+      <itunes:summary>AI Daily Briefing 2026.03.06</itunes:summary>
+      <itunes:duration>04:55</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
