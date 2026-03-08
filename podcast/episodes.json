@@ -6,7 +6,7 @@
     "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69ad579f722cd87caf80b779.mp3",
     "date": "2026-03-08",
     "duration": 0,
-    "pubDate": "Sun, 08 Mar 2026 00:00:00 +0000"
+    "pubDate": "Sun, 08 Mar 2026 12:00:00 +0000"
   },
   {
     "id": "2026-03-07-----------AI-Daily-Briefing---JZ-Briefing-Ops------------2026-03-07-70f39df2",
@@ -15,7 +15,7 @@
     "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69ac8c440d2b9461e4d33253.mp3",
     "date": "2026-03-07",
     "duration": 295,
-    "pubDate": "Sat, 07 Mar 2026 00:00:00 +0000"
+    "pubDate": "Sat, 07 Mar 2026 12:00:00 +0000"
   },
   {
     "id": "2026-03-06--1-Anthropic-d663caf0",
@@ -24,6 +24,6 @@
     "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69ab60491a8ea4644b490731.mp3",
     "date": "2026-03-06",
     "duration": 295,
-    "pubDate": "Fri, 06 Mar 2026 00:00:00 +0000"
+    "pubDate": "Fri, 06 Mar 2026 12:00:00 +0000"
   }
 ]
