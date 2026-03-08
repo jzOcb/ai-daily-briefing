@@ -5,7 +5,7 @@
     <description>每天 5 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</description>
     <link>https://jzocb.github.io/ai-daily-briefing/</link>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 08 Mar 2026 02:04:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 02:06:11 +0000</lastBuildDate>
     <itunes:author>JZ Briefing Ops</itunes:author>
     <itunes:summary>每天 5 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</itunes:summary>
     <itunes:category text="Technology" />
@@ -18,28 +18,30 @@
     <atom:link href="https://jzocb.github.io/ai-daily-briefing/podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>#2 Claude找到Firefox隐藏bug + Anthropic烧钱补贴</title>
-      <description>AI Daily Briefing 2026-03-07</description>
+      <description>AI Daily Briefing 2026-03-07 | Claude 找到了 Firefox 里藏了几十年的 bug。 说到 Anthropic，他们的 Claude Code 订阅服务其实是在烧钱。 不过 Anthropic 也没闲着，他们给 Claude Code 加了个新功能——定时任务。</description>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-03-07-----------AI-Daily-Briefing---JZ-Briefing-Ops------------2026-03-07-70f39df2</guid>
       <enclosure url="https://assets.listenhub.ai/listenhub-public-prod/podcast/69ac8c440d2b9461e4d33253.mp3" type="audio/mpeg" length="0" />
       <itunes:author>JZ Briefing Ops</itunes:author>
-      <itunes:summary>AI Daily Briefing 2026-03-07</itunes:summary>
+      <itunes:summary>AI Daily Briefing 2026-03-07 | Claude 找到了 Firefox 里藏了几十年的 bug。 说到 Anthropic，他们的 Claude Code 订阅服务其实是在烧钱。 不过 Anthropic 也没闲着，他们给 Claude Code 加了个新功能——定时任务。</itunes:summary>
       <itunes:duration>04:55</itunes:duration>
       <itunes:episode>2</itunes:episode>
       <itunes:season>1</itunes:season>
+      <itunes:image href="https://jzocb.github.io/ai-daily-briefing/podcast-cover.png" />
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <title>#1 Anthropic被五角大楼封杀</title>
-      <description>AI Daily Briefing 2026.03.06</description>
+      <description>AI Daily Briefing 2026-03-06 | Anthropic被美国五角大楼从AI合同中封杀。Claude Code订阅服务每月亏损数千美元。AI安全审计新突破。</description>
       <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-03-06--1-Anthropic-d663caf0</guid>
       <enclosure url="https://assets.listenhub.ai/listenhub-public-prod/podcast/69ab60491a8ea4644b490731.mp3" type="audio/mpeg" length="0" />
       <itunes:author>JZ Briefing Ops</itunes:author>
-      <itunes:summary>AI Daily Briefing 2026.03.06</itunes:summary>
+      <itunes:summary>AI Daily Briefing 2026-03-06 | Anthropic被美国五角大楼从AI合同中封杀。Claude Code订阅服务每月亏损数千美元。AI安全审计新突破。</itunes:summary>
       <itunes:duration>04:55</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
+      <itunes:image href="https://jzocb.github.io/ai-daily-briefing/podcast-cover.png" />
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
