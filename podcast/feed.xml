@@ -5,12 +5,16 @@
     <description>每天 5 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</description>
     <link>https://jzocb.github.io/ai-daily-briefing/</link>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 07 Mar 2026 20:36:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 01:15:56 +0000</lastBuildDate>
     <itunes:author>JZ Briefing Ops</itunes:author>
     <itunes:summary>每天 5 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</itunes:summary>
     <itunes:category text="Technology" />
     <itunes:image href="https://jzocb.github.io/ai-daily-briefing/podcast-cover.png" />
     <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>JZ Briefing Ops</itunes:name>
+      <itunes:email>zuo.djason@gmail.com</itunes:email>
+    </itunes:owner>
     <atom:link href="https://jzocb.github.io/ai-daily-briefing/podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>早上好，这里是你的 AI Daily Briefing，由 JZ Briefing Ops 为你整理准备。今天是 2026-03-07。</title>
