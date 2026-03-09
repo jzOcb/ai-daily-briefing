@@ -5,7 +5,7 @@
     <description>每天 5 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</description>
     <link>https://jzocb.github.io/ai-daily-briefing/</link>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 08 Mar 2026 16:57:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 11:06:40 +0000</lastBuildDate>
     <itunes:author>JZ Briefing Ops</itunes:author>
     <itunes:summary>每天 5 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</itunes:summary>
     <itunes:category text="Technology" />
@@ -26,7 +26,7 @@
       <itunes:author>JZ Briefing Ops</itunes:author>
       <itunes:summary>AI Daily Briefing 2026-03-08 | 本期聚焦 AI 圈的几条重磅消息：OpenAI 硬件负责人因军事合作协议分歧而离职，引发对 AI 伦理决策的深思；Karpathy 开源自主研究工具让 AI 自己优化 AI 训练，同时学术界却被 AI 生成的虚假引用污染；现有 AI agent 基准测试严重偏向编程能力，忽视了 92% 的劳动力市场需求。另外，Claude 在安全审计上展现真实价值，政府政策也在重塑 AI 公司的控制权边界。</itunes:summary>
       <itunes:duration>00:00</itunes:duration>
-      <itunes:episode>3</itunes:episode>
+      <itunes:episode>4</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:image href="https://jzocb.github.io/ai-daily-briefing/podcast-cover.png" />
       <itunes:explicit>false</itunes:explicit>
@@ -40,6 +40,20 @@
       <itunes:author>JZ Briefing Ops</itunes:author>
       <itunes:summary>AI Daily Briefing 2026-03-07 | 本期聚焦 AI 在代码安全审计中的突破性应用，以及围绕 AI 商业化、基础设施与政策的最新动向。Claude 在 Firefox 中发现百余个隐藏漏洞，展现了 AI 作为「24 小时安全卫士」的潜力，但 Anthropic 的订阅服务正在大幅亏损，引发对 AI 定价可持续性的思考。同时，Anthropic 推出定时任务功能迈向自主 Agent，字节开源视频生成模型实现近实时性能，Google 开放 Agent 开发工具包，而政府监管、电力瓶颈等因素正深刻影响行业格局。</itunes:summary>
       <itunes:duration>04:55</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:image href="https://jzocb.github.io/ai-daily-briefing/podcast-cover.png" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#4 Claude删库事故 + 亚马逊裁员风波 + AI自主交易能力</title>
+      <description>AI Daily Briefing 2026-03-09 | 本期聚焦 AI 工具的双重危机与机遇。一方面，Claude Code 误删开发者两年半生产数据，亚马逊让工程师训练 AI 后直接裁员，引发对 AI 权限和透明度的担忧；另一方面，ByteDance 开源强大的 DeerFlow Agent、Claude 推出虚拟卡支付、印度 Sarvam 开源大模型，AI 能力和生态在快速完善。我们正处于一个关键节点：AI 越来越强大，但可控性和理解能力仍有巨大缺口，需要在赋能与防护之间找到平衡。</description>
+      <pubDate>Mon, 09 Mar 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-03-09--4-Claude-----------------AI-0fce154c</guid>
+      <enclosure url="https://assets.listenhub.ai/listenhub-public-prod/podcast/69aea99a6f2bce1dc268a79f.mp3" type="audio/mpeg" length="0" />
+      <itunes:author>JZ Briefing Ops</itunes:author>
+      <itunes:summary>AI Daily Briefing 2026-03-09 | 本期聚焦 AI 工具的双重危机与机遇。一方面，Claude Code 误删开发者两年半生产数据，亚马逊让工程师训练 AI 后直接裁员，引发对 AI 权限和透明度的担忧；另一方面，ByteDance 开源强大的 DeerFlow Agent、Claude 推出虚拟卡支付、印度 Sarvam 开源大模型，AI 能力和生态在快速完善。我们正处于一个关键节点：AI 越来越强大，但可控性和理解能力仍有巨大缺口，需要在赋能与防护之间找到平衡。</itunes:summary>
+      <itunes:duration>00:00</itunes:duration>
       <itunes:episode>2</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:image href="https://jzocb.github.io/ai-daily-briefing/podcast-cover.png" />
