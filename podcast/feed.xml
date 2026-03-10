@@ -2,12 +2,12 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>JZ Briefing Ops - AI Daily Briefing</title>
-    <description>每天 5 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</description>
+    <description>每天 10 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</description>
     <link>https://jzocb.github.io/ai-daily-briefing/</link>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 09 Mar 2026 11:06:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 00:51:17 +0000</lastBuildDate>
     <itunes:author>JZ Briefing Ops</itunes:author>
-    <itunes:summary>每天 5 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</itunes:summary>
+    <itunes:summary>每天 10 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</itunes:summary>
     <itunes:category text="Technology" />
     <itunes:image href="https://jzocb.github.io/ai-daily-briefing/podcast-cover.png" />
     <itunes:explicit>false</itunes:explicit>
