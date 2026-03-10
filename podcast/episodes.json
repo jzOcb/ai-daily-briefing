@@ -5,8 +5,9 @@
     "description": "AI Daily Briefing 2026-03-08 | 本期聚焦 AI 圈的几条重磅消息：OpenAI 硬件负责人因军事合作协议分歧而离职，引发对 AI 伦理决策的深思；Karpathy 开源自主研究工具让 AI 自己优化 AI 训练，同时学术界却被 AI 生成的虚假引用污染；现有 AI agent 基准测试严重偏向编程能力，忽视了 92% 的劳动力市场需求。另外，Claude 在安全审计上展现真实价值，政府政策也在重塑 AI 公司的控制权边界。",
     "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69ad579f722cd87caf80b779.mp3",
     "date": "2026-03-08",
-    "duration": 0,
-    "pubDate": "Sun, 08 Mar 2026 12:00:00 +0000"
+    "duration": 253,
+    "pubDate": "Sun, 08 Mar 2026 12:00:00 +0000",
+    "fileSize": 4050459
   },
   {
     "id": "2026-03-07-----------AI-Daily-Briefing---JZ-Briefing-Ops------------2026-03-07-70f39df2",
@@ -15,7 +16,8 @@
     "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69ac8c440d2b9461e4d33253.mp3",
     "date": "2026-03-07",
     "duration": 295,
-    "pubDate": "Sat, 07 Mar 2026 12:00:00 +0000"
+    "pubDate": "Sat, 07 Mar 2026 12:00:00 +0000",
+    "fileSize": 3853467
   },
   {
     "id": "2026-03-09--4-Claude-----------------AI-0fce154c",
@@ -23,8 +25,9 @@
     "description": "AI Daily Briefing 2026-03-09 | 本期聚焦 AI 工具的双重危机与机遇。一方面，Claude Code 误删开发者两年半生产数据，亚马逊让工程师训练 AI 后直接裁员，引发对 AI 权限和透明度的担忧；另一方面，ByteDance 开源强大的 DeerFlow Agent、Claude 推出虚拟卡支付、印度 Sarvam 开源大模型，AI 能力和生态在快速完善。我们正处于一个关键节点：AI 越来越强大，但可控性和理解能力仍有巨大缺口，需要在赋能与防护之间找到平衡。",
     "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69aea99a6f2bce1dc268a79f.mp3",
     "date": "2026-03-09",
-    "duration": 0,
-    "pubDate": "Mon, 09 Mar 2026 12:00:00 +0000"
+    "duration": 650,
+    "pubDate": "Mon, 09 Mar 2026 12:00:00 +0000",
+    "fileSize": 10403163
   },
   {
     "id": "2026-03-06--1-Anthropic-d663caf0",
@@ -33,6 +36,7 @@
     "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69ab60491a8ea4644b490731.mp3",
     "date": "2026-03-06",
     "duration": 295,
-    "pubDate": "Fri, 06 Mar 2026 12:00:00 +0000"
+    "pubDate": "Fri, 06 Mar 2026 12:00:00 +0000",
+    "fileSize": 4544667
   }
 ]
