@@ -1,60 +1,60 @@
 [
-  {
-    "id": "2026-03-11--6----Amazon---Perplexity-b4285753",
-    "title": "#6 先说 Amazon 和 Perplexity 这事儿 + 这事儿其实挺有意思的",
-    "description": "AI Daily Briefing 2026-03-11 | Amazon 刚刚拿到法院禁令，封杀了 Perplexity 的 AI 购物助手。 先说 Amazon 和 Perplexity 这事儿。 这事儿其实挺有意思的。",
-    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69b14c5f722cd87cafa938a7.mp3",
-    "date": "2026-03-11",
-    "duration": 0,
-    "pubDate": "Wed, 11 Mar 2026 12:00:00 +0000"
-  },
-  {
-    "id": "2026-03-10--5-------------Claude--Office-----Anthropic-7317e442",
-    "title": "#5 图灵奖得主融资十亿 + Claude集成Office套件 + Anthropic诉讼政府后门",
-    "description": "AI Daily Briefing 2026-03-10 | 本期聚焦 AI 行业的几个关键变动：图灵奖得主 LeCun 创业融资十亿美元，要打造超越大语言模型的下一代 AI 范式；微软把 Anthropic 的 Claude 集成进 Office 全家桶，打破了与 OpenAI 的独家关系；Anthropic 则因拒绝为政府开后门，反手起诉十七个联邦机构。此外，OpenAI 收购安全测试公司强化防护能力，中国家用机器人已能自主完成复杂家务，而 CEO 调查显示 AI 对就业的实际影响仍不明显。技术突",
-    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69affb2bbb92dd607f245e39.mp3",
-    "date": "2026-03-10",
-    "duration": 0,
-    "pubDate": "Tue, 10 Mar 2026 12:00:00 +0000"
-  },
-  {
-    "id": "2026-03-08--------------AI-8771275a",
-    "title": "#3 OpenAI军事合作争议 + AI自主研究突破 + 学术假引用污染",
-    "description": "AI Daily Briefing 2026-03-08 | 本期聚焦 AI 圈的几条重磅消息：OpenAI 硬件负责人因军事合作协议分歧而离职，引发对 AI 伦理决策的深思；Karpathy 开源自主研究工具让 AI 自己优化 AI 训练，同时学术界却被 AI 生成的虚假引用污染；现有 AI agent 基准测试严重偏向编程能力，忽视了 92% 的劳动力市场需求。另外，Claude 在安全审计上展现真实价值，政府政策也在重塑 AI 公司的控制权边界。",
-    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69ad579f722cd87caf80b779.mp3",
-    "date": "2026-03-08",
-    "duration": 253,
-    "pubDate": "Sun, 08 Mar 2026 12:00:00 +0000",
-    "fileSize": 4050459
-  },
-  {
-    "id": "2026-03-07-----------AI-Daily-Briefing---JZ-Briefing-Ops------------2026-03-07-70f39df2",
-    "title": "#2 Claude找到Firefox隐藏bug + Anthropic烧钱补贴",
-    "description": "AI Daily Briefing 2026-03-07 | 本期聚焦 AI 在代码安全审计中的突破性应用，以及围绕 AI 商业化、基础设施与政策的最新动向。Claude 在 Firefox 中发现百余个隐藏漏洞，展现了 AI 作为「24 小时安全卫士」的潜力，但 Anthropic 的订阅服务正在大幅亏损，引发对 AI 定价可持续性的思考。同时，Anthropic 推出定时任务功能迈向自主 Agent，字节开源视频生成模型实现近实时性能，Google 开放 Agent 开发工具包，而政府监管、电力瓶颈等因素正深刻影响行业格局。",
-    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69ac8c440d2b9461e4d33253.mp3",
-    "date": "2026-03-07",
-    "duration": 295,
-    "pubDate": "Sat, 07 Mar 2026 12:00:00 +0000",
-    "fileSize": 3853467
-  },
-  {
-    "id": "2026-03-09--4-Claude-----------------AI-0fce154c",
-    "title": "#4 Claude删库事故 + 亚马逊裁员风波 + AI自主交易能力",
-    "description": "AI Daily Briefing 2026-03-09 | 本期聚焦 AI 工具的双重危机与机遇。一方面，Claude Code 误删开发者两年半生产数据，亚马逊让工程师训练 AI 后直接裁员，引发对 AI 权限和透明度的担忧；另一方面，ByteDance 开源强大的 DeerFlow Agent、Claude 推出虚拟卡支付、印度 Sarvam 开源大模型，AI 能力和生态在快速完善。我们正处于一个关键节点：AI 越来越强大，但可控性和理解能力仍有巨大缺口，需要在赋能与防护之间找到平衡。",
-    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69aea99a6f2bce1dc268a79f.mp3",
-    "date": "2026-03-09",
-    "duration": 650,
-    "pubDate": "Mon, 09 Mar 2026 12:00:00 +0000",
-    "fileSize": 10403163
-  },
-  {
-    "id": "2026-03-06--1-Anthropic-d663caf0",
-    "title": "#1 Anthropic被五角大楼封杀",
-    "description": "AI Daily Briefing 2026-03-06 | 本期聚焦Anthropic在美国遭遇的监管风波。五角大楼以供应链风险为由对其进行封杀，CEO阿莫代伊随即宣布提起法律诉讼。我们还关注了OpenAI推出的新安全工具、开源模型去审查工具的争议，以及Claude开发工具的最新创新。",
-    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69ab60491a8ea4644b490731.mp3",
-    "date": "2026-03-06",
-    "duration": 295,
-    "pubDate": "Fri, 06 Mar 2026 12:00:00 +0000",
-    "fileSize": 4544667
-  }
+    {
+        "id": "2026-03-11--6----Amazon---Perplexity-b4285753",
+        "title": "#6 Amazon封杀Perplexity购物Agent + Google为五角大楼提供AI",
+        "description": "AI Daily Briefing 2026-03-11 | Amazon 刚刚拿到法院禁令，封杀了 Perplexity 的 AI 购物助手。 先说 Amazon 和 Perplexity 这事儿。 这事儿其实挺有意思的。",
+        "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69b14c5f722cd87cafa938a7.mp3",
+        "date": "2026-03-11",
+        "duration": 0,
+        "pubDate": "Wed, 11 Mar 2026 12:00:00 +0000"
+    },
+    {
+        "id": "2026-03-10--5-------------Claude--Office-----Anthropic-7317e442",
+        "title": "#5 图灵奖得主融资十亿 + Claude集成Office套件 + Anthropic诉讼政府后门",
+        "description": "AI Daily Briefing 2026-03-10 | 本期聚焦 AI 行业的几个关键变动：图灵奖得主 LeCun 创业融资十亿美元，要打造超越大语言模型的下一代 AI 范式；微软把 Anthropic 的 Claude 集成进 Office 全家桶，打破了与 OpenAI 的独家关系；Anthropic 则因拒绝为政府开后门，反手起诉十七个联邦机构。此外，OpenAI 收购安全测试公司强化防护能力，中国家用机器人已能自主完成复杂家务，而 CEO 调查显示 AI 对就业的实际影响仍不明显。技术突",
+        "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69affb2bbb92dd607f245e39.mp3",
+        "date": "2026-03-10",
+        "duration": 0,
+        "pubDate": "Tue, 10 Mar 2026 12:00:00 +0000"
+    },
+    {
+        "id": "2026-03-08--------------AI-8771275a",
+        "title": "#3 OpenAI军事合作争议 + AI自主研究突破 + 学术假引用污染",
+        "description": "AI Daily Briefing 2026-03-08 | 本期聚焦 AI 圈的几条重磅消息：OpenAI 硬件负责人因军事合作协议分歧而离职，引发对 AI 伦理决策的深思；Karpathy 开源自主研究工具让 AI 自己优化 AI 训练，同时学术界却被 AI 生成的虚假引用污染；现有 AI agent 基准测试严重偏向编程能力，忽视了 92% 的劳动力市场需求。另外，Claude 在安全审计上展现真实价值，政府政策也在重塑 AI 公司的控制权边界。",
+        "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69ad579f722cd87caf80b779.mp3",
+        "date": "2026-03-08",
+        "duration": 253,
+        "pubDate": "Sun, 08 Mar 2026 12:00:00 +0000",
+        "fileSize": 4050459
+    },
+    {
+        "id": "2026-03-07-----------AI-Daily-Briefing---JZ-Briefing-Ops------------2026-03-07-70f39df2",
+        "title": "#2 Claude找到Firefox隐藏bug + Anthropic烧钱补贴",
+        "description": "AI Daily Briefing 2026-03-07 | 本期聚焦 AI 在代码安全审计中的突破性应用，以及围绕 AI 商业化、基础设施与政策的最新动向。Claude 在 Firefox 中发现百余个隐藏漏洞，展现了 AI 作为「24 小时安全卫士」的潜力，但 Anthropic 的订阅服务正在大幅亏损，引发对 AI 定价可持续性的思考。同时，Anthropic 推出定时任务功能迈向自主 Agent，字节开源视频生成模型实现近实时性能，Google 开放 Agent 开发工具包，而政府监管、电力瓶颈等因素正深刻影响行业格局。",
+        "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69ac8c440d2b9461e4d33253.mp3",
+        "date": "2026-03-07",
+        "duration": 295,
+        "pubDate": "Sat, 07 Mar 2026 12:00:00 +0000",
+        "fileSize": 3853467
+    },
+    {
+        "id": "2026-03-09--4-Claude-----------------AI-0fce154c",
+        "title": "#4 Claude删库事故 + 亚马逊裁员风波 + AI自主交易能力",
+        "description": "AI Daily Briefing 2026-03-09 | 本期聚焦 AI 工具的双重危机与机遇。一方面，Claude Code 误删开发者两年半生产数据，亚马逊让工程师训练 AI 后直接裁员，引发对 AI 权限和透明度的担忧；另一方面，ByteDance 开源强大的 DeerFlow Agent、Claude 推出虚拟卡支付、印度 Sarvam 开源大模型，AI 能力和生态在快速完善。我们正处于一个关键节点：AI 越来越强大，但可控性和理解能力仍有巨大缺口，需要在赋能与防护之间找到平衡。",
+        "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69aea99a6f2bce1dc268a79f.mp3",
+        "date": "2026-03-09",
+        "duration": 650,
+        "pubDate": "Mon, 09 Mar 2026 12:00:00 +0000",
+        "fileSize": 10403163
+    },
+    {
+        "id": "2026-03-06--1-Anthropic-d663caf0",
+        "title": "#1 Anthropic被五角大楼封杀",
+        "description": "AI Daily Briefing 2026-03-06 | 本期聚焦Anthropic在美国遭遇的监管风波。五角大楼以供应链风险为由对其进行封杀，CEO阿莫代伊随即宣布提起法律诉讼。我们还关注了OpenAI推出的新安全工具、开源模型去审查工具的争议，以及Claude开发工具的最新创新。",
+        "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69ab60491a8ea4644b490731.mp3",
+        "date": "2026-03-06",
+        "duration": 295,
+        "pubDate": "Fri, 06 Mar 2026 12:00:00 +0000",
+        "fileSize": 4544667
+    }
 ]
