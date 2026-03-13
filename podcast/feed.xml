@@ -5,7 +5,7 @@
     <description>每天 10 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</description>
     <link>https://jzocb.github.io/ai-daily-briefing/</link>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 13 Mar 2026 03:30:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 14:15:56 +0000</lastBuildDate>
     <itunes:author>JZ Briefing Ops</itunes:author>
     <itunes:summary>每天 10 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</itunes:summary>
     <itunes:category text="Technology" />
@@ -97,6 +97,20 @@
       <itunes:summary>AI Daily Briefing 2026-03-09 | 本期聚焦 AI 工具的双重危机与机遇。一方面，Claude Code 误删开发者两年半生产数据，亚马逊让工程师训练 AI 后直接裁员，引发对 AI 权限和透明度的担忧；另一方面，ByteDance 开源强大的 DeerFlow Agent、Claude 推出虚拟卡支付、印度 Sarvam 开源大模型，AI 能力和生态在快速完善。我们正处于一个关键节点：AI 越来越强大，但可控性和理解能力仍有巨大缺口，需要在赋能与防护之间找到平衡。</itunes:summary>
       <itunes:duration>10:50</itunes:duration>
       <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:image href="https://jzocb.github.io/ai-daily-briefing/podcast-cover.png" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#8 Meta Avocado跳票 + 国防部炮轰Anthropic太有道德 + Google追上ChatGPT</title>
+      <description>Meta下一代模型Avocado因跑分不敌Google/OpenAI推迟发布；美国国防部CTO批评Anthropic模型"污染"供应链；Google Gemini市占从5.7%飙升到24.4%；Nvidia砸260亿做开源模型；Perplexity推出200美元/月AI PC；Atlassian以AI为由裁员10%。</description>
+      <pubDate>Fri, 13 Mar 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-03-13--8-Meta-Avocado----------Anthropic-------Google--ChatGPT-0179d2df</guid>
+      <enclosure url="https://assets.listenhub.ai/listenhub-public-prod/podcast/69b41671a25361689539a9e3.mp3" type="audio/mpeg" length="0" />
+      <itunes:author>JZ Briefing Ops</itunes:author>
+      <itunes:summary>Meta下一代模型Avocado因跑分不敌Google/OpenAI推迟发布；美国国防部CTO批评Anthropic模型"污染"供应链；Google Gemini市占从5.7%飙升到24.4%；Nvidia砸260亿做开源模型；Perplexity推出200美元/月AI PC；Atlassian以AI为由裁员10%。</itunes:summary>
+      <itunes:duration>09:49</itunes:duration>
+      <itunes:episode>8</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:image href="https://jzocb.github.io/ai-daily-briefing/podcast-cover.png" />
       <itunes:explicit>false</itunes:explicit>
