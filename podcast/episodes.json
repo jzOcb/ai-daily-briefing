@@ -37,6 +37,15 @@
     "fileSize": 4050459
   },
   {
+    "id": "2026-03-14--9-Musk--xAI-------Meta-AI----20----Claude-Code--A-B-0105bd42",
+    "title": "#9 Musk承认xAI搞砸重组 + Meta为AI烧钱拟裁20% + Claude Code偷跑A/B测试",
+    "description": "AI Daily Briefing 第9期：Musk公开承认xAI建设失误启动全面重组；Meta为支撑6000亿AI投资可能裁员20%；Claude Code被反编译发现静默A/B测试引发信任危机；中国多地推出百万级AI Agent补贴；Anthropic取消长context加价。",
+    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69b5547916a758dc65aecdac.mp3",
+    "date": "2026-03-14",
+    "duration": 362,
+    "pubDate": "Sat, 14 Mar 2026 12:00:00 +0000"
+  },
+  {
     "id": "2026-03-07-----------AI-Daily-Briefing---JZ-Briefing-Ops------------2026-03-07-70f39df2",
     "title": "#2 Claude找到Firefox隐藏bug + Anthropic烧钱补贴",
     "description": "AI Daily Briefing 2026-03-07 | 本期聚焦 AI 在代码安全审计中的突破性应用，以及围绕 AI 商业化、基础设施与政策的最新动向。Claude 在 Firefox 中发现百余个隐藏漏洞，展现了 AI 作为「24 小时安全卫士」的潜力，但 Anthropic 的订阅服务正在大幅亏损，引发对 AI 定价可持续性的思考。同时，Anthropic 推出定时任务功能迈向自主 Agent，字节开源视频生成模型实现近实时性能，Google 开放 Agent 开发工具包，而政府监管、电力瓶颈等因素正深刻影响行业格局。",

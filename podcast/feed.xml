@@ -5,7 +5,7 @@
     <description>每天 10 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</description>
     <link>https://jzocb.github.io/ai-daily-briefing/</link>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 13 Mar 2026 14:15:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 12:29:53 +0000</lastBuildDate>
     <itunes:author>JZ Briefing Ops</itunes:author>
     <itunes:summary>每天 10 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</itunes:summary>
     <itunes:category text="Technology" />
@@ -69,6 +69,20 @@
       <itunes:summary>AI Daily Briefing 2026-03-08 | 本期聚焦 AI 圈的几条重磅消息：OpenAI 硬件负责人因军事合作协议分歧而离职，引发对 AI 伦理决策的深思；Karpathy 开源自主研究工具让 AI 自己优化 AI 训练，同时学术界却被 AI 生成的虚假引用污染；现有 AI agent 基准测试严重偏向编程能力，忽视了 92% 的劳动力市场需求。另外，Claude 在安全审计上展现真实价值，政府政策也在重塑 AI 公司的控制权边界。</itunes:summary>
       <itunes:duration>04:13</itunes:duration>
       <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:image href="https://jzocb.github.io/ai-daily-briefing/podcast-cover.png" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#9 Musk承认xAI搞砸重组 + Meta为AI烧钱拟裁20% + Claude Code偷跑A/B测试</title>
+      <description>AI Daily Briefing 第9期：Musk公开承认xAI建设失误启动全面重组；Meta为支撑6000亿AI投资可能裁员20%；Claude Code被反编译发现静默A/B测试引发信任危机；中国多地推出百万级AI Agent补贴；Anthropic取消长context加价。</description>
+      <pubDate>Sat, 14 Mar 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-03-14--9-Musk--xAI-------Meta-AI----20----Claude-Code--A-B-0105bd42</guid>
+      <enclosure url="https://assets.listenhub.ai/listenhub-public-prod/podcast/69b5547916a758dc65aecdac.mp3" type="audio/mpeg" length="0" />
+      <itunes:author>JZ Briefing Ops</itunes:author>
+      <itunes:summary>AI Daily Briefing 第9期：Musk公开承认xAI建设失误启动全面重组；Meta为支撑6000亿AI投资可能裁员20%；Claude Code被反编译发现静默A/B测试引发信任危机；中国多地推出百万级AI Agent补贴；Anthropic取消长context加价。</itunes:summary>
+      <itunes:duration>06:02</itunes:duration>
+      <itunes:episode>9</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:image href="https://jzocb.github.io/ai-daily-briefing/podcast-cover.png" />
       <itunes:explicit>false</itunes:explicit>
