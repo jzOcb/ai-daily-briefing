@@ -5,7 +5,7 @@
     <description>每天 10 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</description>
     <link>https://jzocb.github.io/ai-daily-briefing/</link>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 15 Mar 2026 15:24:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 15:37:33 +0000</lastBuildDate>
     <itunes:author>JZ Briefing Ops</itunes:author>
     <itunes:summary>每天 10 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</itunes:summary>
     <itunes:category text="Technology" />
@@ -55,6 +55,20 @@
       <itunes:summary>AI Daily Briefing 2026-03-12 | 本期聚焦 AI 产业的多个重要动向。Perplexity 宣布推出本地 AI PC 产品，标志着纯软件服务向硬件的战略转变；McKinsey 的内部 AI 系统被 AI agent 用老式 SQL 注入攻击在两小时内攻破，暴露了企业级 AI 应用的安全隐患；此外还包括 Meta 芯片自研加速、Anthropic 成立伦理研究所、OpenAI 发布防提示注入数据集等重点进展，反映出整个行业正从单纯追求性能转向考量硬件、安全与伦理的全面竞争</itunes:summary>
       <itunes:duration>00:00</itunes:duration>
       <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:image href="https://jzocb.github.io/ai-daily-briefing/podcast-cover.png" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#10 Claude Code搜索遭钓鱼 + 好莱坞叫停字节AI视频 + 对话训练Agent新框架</title>
+      <description>Google搜Claude Code第一条结果是恶意网站；好莱坞版权施压搁置Seedance 2.0；Princeton OpenClaw-RL用对话训练Agent；AI agent一小时攻破招聘平台；Spotify AI DJ被技术作家深度吐槽；美军考虑用AI chatbot做目标决策</description>
+      <pubDate>Sun, 15 Mar 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-03-15--10-Claude-Code---------------AI---------Agent-776a7aff</guid>
+      <enclosure url="https://assets.listenhub.ai/listenhub-public-prod/podcast/69b6cf0010dc4922a9fb2840.mp3" type="audio/mpeg" length="7044507" />
+      <itunes:author>JZ Briefing Ops</itunes:author>
+      <itunes:summary>Google搜Claude Code第一条结果是恶意网站；好莱坞版权施压搁置Seedance 2.0；Princeton OpenClaw-RL用对话训练Agent；AI agent一小时攻破招聘平台；Spotify AI DJ被技术作家深度吐槽；美军考虑用AI chatbot做目标决策</itunes:summary>
+      <itunes:duration>07:20</itunes:duration>
+      <itunes:episode>10</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:image href="https://jzocb.github.io/ai-daily-briefing/podcast-cover.png" />
       <itunes:explicit>false</itunes:explicit>

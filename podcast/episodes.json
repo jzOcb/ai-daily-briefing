@@ -27,6 +27,16 @@
     "pubDate": "Thu, 12 Mar 2026 12:00:00 +0000"
   },
   {
+    "id": "2026-03-15--10-Claude-Code---------------AI---------Agent-776a7aff",
+    "title": "#10 Claude Code搜索遭钓鱼 + 好莱坞叫停字节AI视频 + 对话训练Agent新框架",
+    "description": "Google搜Claude Code第一条结果是恶意网站；好莱坞版权施压搁置Seedance 2.0；Princeton OpenClaw-RL用对话训练Agent；AI agent一小时攻破招聘平台；Spotify AI DJ被技术作家深度吐槽；美军考虑用AI chatbot做目标决策",
+    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69b6cf0010dc4922a9fb2840.mp3",
+    "date": "2026-03-15",
+    "duration": 440,
+    "fileSize": 7044507,
+    "pubDate": "Sun, 15 Mar 2026 12:00:00 +0000"
+  },
+  {
     "id": "2026-03-08--------------AI-8771275a",
     "title": "#3 OpenAI军事合作争议 + AI自主研究突破 + 学术假引用污染",
     "description": "AI Daily Briefing 2026-03-08 | 本期聚焦 AI 圈的几条重磅消息：OpenAI 硬件负责人因军事合作协议分歧而离职，引发对 AI 伦理决策的深思；Karpathy 开源自主研究工具让 AI 自己优化 AI 训练，同时学术界却被 AI 生成的虚假引用污染；现有 AI agent 基准测试严重偏向编程能力，忽视了 92% 的劳动力市场需求。另外，Claude 在安全审计上展现真实价值，政府政策也在重塑 AI 公司的控制权边界。",
