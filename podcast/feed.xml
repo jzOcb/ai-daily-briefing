@@ -5,7 +5,7 @@
     <description>每天 10 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</description>
     <link>https://jzocb.github.io/ai-daily-briefing/</link>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 15 Mar 2026 15:37:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 12:21:30 +0000</lastBuildDate>
     <itunes:author>JZ Briefing Ops</itunes:author>
     <itunes:summary>每天 10 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</itunes:summary>
     <itunes:category text="Technology" />
@@ -111,6 +111,20 @@
       <itunes:summary>AI Daily Briefing 2026-03-07 | 本期聚焦 AI 在代码安全审计中的突破性应用，以及围绕 AI 商业化、基础设施与政策的最新动向。Claude 在 Firefox 中发现百余个隐藏漏洞，展现了 AI 作为「24 小时安全卫士」的潜力，但 Anthropic 的订阅服务正在大幅亏损，引发对 AI 定价可持续性的思考。同时，Anthropic 推出定时任务功能迈向自主 Agent，字节开源视频生成模型实现近实时性能，Google 开放 Agent 开发工具包，而政府监管、电力瓶颈等因素正深刻影响行业格局。</itunes:summary>
       <itunes:duration>04:55</itunes:duration>
       <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:image href="https://jzocb.github.io/ai-daily-briefing/podcast-cover.png" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#11 Meta 270亿基建订单 + 开发者不再享受编程 + 人形机器人学打网球</title>
+      <description>AI Daily Briefing 第11期。Meta 270亿美元基础设施订单；开发者说不再享受编程但产出翻十倍；人形机器人学会打网球。</description>
+      <pubDate>Mon, 16 Mar 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-03-16--11-Meta-270-82134621</guid>
+      <enclosure url="https://assets.listenhub.ai/listenhub-public-prod/podcast/69b7e4de28de6826a352280e.mp3" type="audio/mpeg" length="0" />
+      <itunes:author>JZ Briefing Ops</itunes:author>
+      <itunes:summary>AI Daily Briefing 第11期。Meta 270亿美元基础设施订单；开发者说不再享受编程但产出翻十倍；人形机器人学会打网球。</itunes:summary>
+      <itunes:duration>07:00</itunes:duration>
+      <itunes:episode>11</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:image href="https://jzocb.github.io/ai-daily-briefing/podcast-cover.png" />
       <itunes:explicit>false</itunes:explicit>
