@@ -5,7 +5,7 @@
     <description>每天 10 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</description>
     <link>https://jzocb.github.io/ai-daily-briefing/</link>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 17 Mar 2026 13:33:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 13:37:02 +0000</lastBuildDate>
     <itunes:author>JZ Briefing Ops</itunes:author>
     <itunes:summary>每天 10 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</itunes:summary>
     <itunes:category text="Technology" />
@@ -27,20 +27,6 @@
       <itunes:summary>AI Daily Briefing 2026-03-11 | Amazon 刚刚拿到法院禁令，封杀了 Perplexity 的 AI 购物助手。 先说 Amazon 和 Perplexity 这事儿。 这事儿其实挺有意思的。</itunes:summary>
       <itunes:duration>00:00</itunes:duration>
       <itunes:episode>6</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:image href="https://jzocb.github.io/ai-daily-briefing/podcast-cover.png" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>#12 OpenAI砍支线聚焦编程 + GPT-4.5装笨过图灵 + Mistral Small 4发布</title>
-      <description>OpenAI战略大转向聚焦编程工具和企业客户；GPT-4.5通过装笨骗过73%人类通过图灵测试；Mistral发布128专家MoE模型Small 4；大英百科起诉OpenAI；Nvidia推出NemoClaw企业AI平台；阿里成立Token Hub事业部</description>
-      <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-03-17--12-OpenAI----------GPT-4-5--------Mistral-Small-4-bd33ca62</guid>
-      <enclosure url="https://assets.listenhub.ai/listenhub-public-prod/podcast/69b9577f28de6826a361e4aa.mp3" type="audio/mpeg" length="11599515" />
-      <itunes:author>JZ Briefing Ops</itunes:author>
-      <itunes:summary>OpenAI战略大转向聚焦编程工具和企业客户；GPT-4.5通过装笨骗过73%人类通过图灵测试；Mistral发布128专家MoE模型Small 4；大英百科起诉OpenAI；Nvidia推出NemoClaw企业AI平台；阿里成立Token Hub事业部</itunes:summary>
-      <itunes:duration>12:05</itunes:duration>
-      <itunes:episode>12</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:image href="https://jzocb.github.io/ai-daily-briefing/podcast-cover.png" />
       <itunes:explicit>false</itunes:explicit>
