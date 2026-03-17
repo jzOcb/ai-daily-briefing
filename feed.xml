@@ -5,7 +5,7 @@
     <description>每天 10 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</description>
     <link>https://jzocb.github.io/ai-daily-briefing/</link>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 17 Mar 2026 13:37:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 17:44:26 +0000</lastBuildDate>
     <itunes:author>JZ Briefing Ops</itunes:author>
     <itunes:summary>每天 10 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</itunes:summary>
     <itunes:category text="Technology" />
@@ -27,6 +27,20 @@
       <itunes:summary>AI Daily Briefing 2026-03-11 | Amazon 刚刚拿到法院禁令，封杀了 Perplexity 的 AI 购物助手。 先说 Amazon 和 Perplexity 这事儿。 这事儿其实挺有意思的。</itunes:summary>
       <itunes:duration>00:00</itunes:duration>
       <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:image href="https://jzocb.github.io/ai-daily-briefing/podcast-cover.png" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#12 OpenAI砍支线聚焦编程 + Kimi与DeepSeek同时挑战Transformer残差 + GTC全面升级</title>
+      <description>OpenAI战略收缩聚焦编程工具；Kimi Attention Residuals和DeepSeek mHC同时挑战Transformer 10年未变的残差连接；Nvidia GTC发布Vera Rubin NVL72、Groq 3 LPX推理芯片、NemoClaw；GPT-4.5装笨过图灵测试；Anthropic 15亿版权和解；Mistral Small 4发布</description>
+      <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-03-17--12-OpenAI----------Kimi-DeepSeek----Transformer-----GTC-c0bc373c</guid>
+      <enclosure url="https://assets.listenhub.ai/listenhub-public-prod/podcast/69b992b454116aae36017dd6.mp3" type="audio/mpeg" length="0" />
+      <itunes:author>JZ Briefing Ops</itunes:author>
+      <itunes:summary>OpenAI战略收缩聚焦编程工具；Kimi Attention Residuals和DeepSeek mHC同时挑战Transformer 10年未变的残差连接；Nvidia GTC发布Vera Rubin NVL72、Groq 3 LPX推理芯片、NemoClaw；GPT-4.5装笨过图灵测试；Anthropic 15亿版权和解；Mistral Small 4发布</itunes:summary>
+      <itunes:duration>08:39</itunes:duration>
+      <itunes:episode>12</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:image href="https://jzocb.github.io/ai-daily-briefing/podcast-cover.png" />
       <itunes:explicit>false</itunes:explicit>
