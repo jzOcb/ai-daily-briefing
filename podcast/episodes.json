@@ -1,5 +1,15 @@
 [
   {
+    "id": "2026-03-18--13-Agent-------2------Agent-9fac753b",
+    "title": "#13 Agent记忆进化 + 2行代码跑自主Agent + 多智能体安全防御",
+    "description": "今天的主题：agent扩张与信任边界。NextMem提出潜在记忆架构让Agent记忆更高效；onprem库实现2行代码启动沙箱自主Agent；DynaTrust通过动态信任图防御多智能体系统中的沉睡Agent攻击。能力在加速，边界的压力也在同步升级。",
+    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69ba88abe3858db84a211083.mp3",
+    "date": "2026-03-18",
+    "duration": 758,
+    "fileSize": 0,
+    "pubDate": "Wed, 18 Mar 2026 12:00:00 +0000"
+  },
+  {
     "id": "2026-03-11--6----Amazon---Perplexity-b4285753",
     "title": "#6 Amazon封杀Perplexity购物Agent + Google为五角大楼提供AI",
     "description": "AI Daily Briefing 2026-03-11 | Amazon 刚刚拿到法院禁令，封杀了 Perplexity 的 AI 购物助手。 先说 Amazon 和 Perplexity 这事儿。 这事儿其实挺有意思的。",
