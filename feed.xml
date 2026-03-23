@@ -5,7 +5,7 @@
     <description>每天 10 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</description>
     <link>https://jzocb.github.io/ai-daily-briefing/</link>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:52:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 14:15:35 +0000</lastBuildDate>
     <itunes:author>JZ Briefing Ops</itunes:author>
     <itunes:summary>每天 10 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</itunes:summary>
     <itunes:category text="Technology" />
@@ -195,6 +195,20 @@
       <itunes:summary>AI Daily Briefing 2026-03-07 | 本期聚焦 AI 在代码安全审计中的突破性应用，以及围绕 AI 商业化、基础设施与政策的最新动向。Claude 在 Firefox 中发现百余个隐藏漏洞，展现了 AI 作为「24 小时安全卫士」的潜力，但 Anthropic 的订阅服务正在大幅亏损，引发对 AI 定价可持续性的思考。同时，Anthropic 推出定时任务功能迈向自主 Agent，字节开源视频生成模型实现近实时性能，Google 开放 Agent 开发工具包，而政府监管、电力瓶颈等因素正深刻影响行业格局。</itunes:summary>
       <itunes:duration>04:55</itunes:duration>
       <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:image href="https://jzocb.github.io/ai-daily-briefing/podcast-cover.png" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#9 Terafab 亿芯片厂 + 提示词优化=越狱武器 + 购物Agent转化翻车</title>
+      <description>xAI/Tesla/SpaceX联合200亿美元Terafab半导体工厂；Opus 4.6开发者感知退步；沃尔玛AI购物转化不如静态网页；Hyperagents自我改进机制；MoE推理加速14%；Agent Kernel三文件持久记忆；提示词优化=越狱；工程师薪酬Token化趋势</description>
+      <pubDate>Mon, 23 Mar 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-03-23--9-Terafab-----------------------Agent-1d9e6b7c</guid>
+      <enclosure url="https://assets.listenhub.ai/listenhub-public-prod/podcast/69c14acba582a21f4e61b7a9.mp3" type="audio/mpeg" length="3469202" />
+      <itunes:author>JZ Briefing Ops</itunes:author>
+      <itunes:summary>xAI/Tesla/SpaceX联合200亿美元Terafab半导体工厂；Opus 4.6开发者感知退步；沃尔玛AI购物转化不如静态网页；Hyperagents自我改进机制；MoE推理加速14%；Agent Kernel三文件持久记忆；提示词优化=越狱；工程师薪酬Token化趋势</itunes:summary>
+      <itunes:duration>09:38</itunes:duration>
+      <itunes:episode>9</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:image href="https://jzocb.github.io/ai-daily-briefing/podcast-cover.png" />
       <itunes:explicit>false</itunes:explicit>
