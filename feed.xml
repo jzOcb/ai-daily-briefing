@@ -5,7 +5,7 @@
     <description>每天 10 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</description>
     <link>https://jzocb.github.io/ai-daily-briefing/</link>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 23 Mar 2026 15:25:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 15:46:50 +0000</lastBuildDate>
     <itunes:author>JZ Briefing Ops</itunes:author>
     <itunes:summary>每天 10 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</itunes:summary>
     <itunes:category text="Technology" />
@@ -41,6 +41,20 @@
       <itunes:summary>AI Daily Briefing 2026-03-11 | Amazon 刚刚拿到法院禁令，封杀了 Perplexity 的 AI 购物助手。 先说 Amazon 和 Perplexity 这事儿。 这事儿其实挺有意思的。</itunes:summary>
       <itunes:duration>00:00</itunes:duration>
       <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:image href="https://jzocb.github.io/ai-daily-briefing/podcast-cover.png" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#19 GPT-5.4解数学难题 + Anthropic接管桌面 + Meta裁员20%让Agent管理公司</title>
+      <description>GPT-5.4 Pro解出FrontierMath开放问题；Anthropic推出Claude桌面控制；Meta用AI Agent替代管理层并计划裁员20%；OpenAI向PE开17.5%保底抢企业市场；Luma AI Uni-1挑战Google图像霸权；Anthropic五角大楼案旧金山开庭</description>
+      <pubDate>Tue, 24 Mar 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-03-24--19-GPT-5-4--------Anthropic-------Meta--20--Agent-996fb6d0</guid>
+      <enclosure url="https://assets.listenhub.ai/listenhub-public-prod/podcast/69c2b162943721c3e5f5d072.mp3" type="audio/mpeg" length="3394682" />
+      <itunes:author>JZ Briefing Ops</itunes:author>
+      <itunes:summary>GPT-5.4 Pro解出FrontierMath开放问题；Anthropic推出Claude桌面控制；Meta用AI Agent替代管理层并计划裁员20%；OpenAI向PE开17.5%保底抢企业市场；Luma AI Uni-1挑战Google图像霸权；Anthropic五角大楼案旧金山开庭</itunes:summary>
+      <itunes:duration>09:25</itunes:duration>
+      <itunes:episode>19</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:image href="https://jzocb.github.io/ai-daily-briefing/podcast-cover.png" />
       <itunes:explicit>false</itunes:explicit>
