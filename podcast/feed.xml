@@ -5,7 +5,7 @@
     <description>每天 10 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</description>
     <link>https://jzocb.github.io/ai-daily-briefing/</link>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 24 Mar 2026 15:46:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 13:35:51 +0000</lastBuildDate>
     <itunes:author>JZ Briefing Ops</itunes:author>
     <itunes:summary>每天 10 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</itunes:summary>
     <itunes:category text="Technology" />
@@ -17,6 +17,20 @@
     </itunes:owner>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://jzocb.github.io/ai-daily-briefing/podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#11 OpenAI 亲手关掉 Sora，迪士尼数十亿美元说撤就撤</title>
+      <description>OpenAI 关闭 Sora 平台 / 1200 亿融资 IPO 窗口 / LiteLLM 供应链攻击 / Claude Code Auto Mode / xAI 萨尔瓦多百万学生 AI 家教 / Anthropic RSP v3 / Google TurboQuant / Gemini 3.1 Flash-Lite / Mistral Voxtral Realtime 开源语音 / Anthropic 多 Agent 协同</description>
+      <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-03-25--11-OpenAI------Sora-7983bb5a</guid>
+      <enclosure url="https://assets.listenhub.ai/listenhub-public-prod/podcast/69c3e476615cd98bfa46e895.mp3" type="audio/mpeg" length="3834890" />
+      <itunes:author>JZ Briefing Ops</itunes:author>
+      <itunes:summary>OpenAI 关闭 Sora 平台 / 1200 亿融资 IPO 窗口 / LiteLLM 供应链攻击 / Claude Code Auto Mode / xAI 萨尔瓦多百万学生 AI 家教 / Anthropic RSP v3 / Google TurboQuant / Gemini 3.1 Flash-Lite / Mistral Voxtral Realtime 开源语音 / Anthropic 多 Agent 协同</itunes:summary>
+      <itunes:duration>10:39</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:image href="https://jzocb.github.io/ai-daily-briefing/podcast-cover.png" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#13 Agent记忆进化 + 2行代码跑自主Agent + 多智能体安全防御</title>
       <description>今天的主题：agent扩张与信任边界。NextMem提出潜在记忆架构让Agent记忆更高效；onprem库实现2行代码启动沙箱自主Agent；DynaTrust通过动态信任图防御多智能体系统中的沉睡Agent攻击。能力在加速，边界的压力也在同步升级。</description>

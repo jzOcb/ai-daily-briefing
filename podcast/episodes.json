@@ -1,5 +1,15 @@
 [
   {
+    "id": "2026-03-25--11-OpenAI------Sora-7983bb5a",
+    "title": "#11 OpenAI 亲手关掉 Sora，迪士尼数十亿美元说撤就撤",
+    "description": "OpenAI 关闭 Sora 平台 / 1200 亿融资 IPO 窗口 / LiteLLM 供应链攻击 / Claude Code Auto Mode / xAI 萨尔瓦多百万学生 AI 家教 / Anthropic RSP v3 / Google TurboQuant / Gemini 3.1 Flash-Lite / Mistral Voxtral Realtime 开源语音 / Anthropic 多 Agent 协同",
+    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69c3e476615cd98bfa46e895.mp3",
+    "date": "2026-03-25",
+    "duration": 639,
+    "fileSize": 3834890,
+    "pubDate": "Wed, 25 Mar 2026 12:00:00 +0000"
+  },
+  {
     "id": "2026-03-18--13-Agent-------2------Agent-9fac753b",
     "title": "#13 Agent记忆进化 + 2行代码跑自主Agent + 多智能体安全防御",
     "description": "今天的主题：agent扩张与信任边界。NextMem提出潜在记忆架构让Agent记忆更高效；onprem库实现2行代码启动沙箱自主Agent；DynaTrust通过动态信任图防御多智能体系统中的沉睡Agent攻击。能力在加速，边界的压力也在同步升级。",
