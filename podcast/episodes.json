@@ -58,6 +58,16 @@
     "pubDate": "Tue, 10 Mar 2026 12:00:00 +0000"
   },
   {
+    "id": "2026-03-26--21-Arm--------OpenAI-Spud--------Sakana-AI-Nature---Harvey--110-f64a6831",
+    "title": "#21 Arm下场造芯片 + OpenAI Spud几周内发布 + Sakana AI登Nature + Harvey估值110亿",
+    "description": "Arm打破35年中立做了自己的芯片，OpenAI代号Spud模型预训练完成几周内发布同时关停Sora，Sakana AI的全自动科研系统论文登上Nature，Harvey法律AI估值一年涨3.5倍到110亿，腾讯开源7B语音模型Covo-Audio，Google TurboQuant实现6倍LLM内存压缩",
+    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69c560075a872e5d1ec23b14.mp3",
+    "date": "2026-03-26",
+    "duration": 761,
+    "fileSize": 4568426,
+    "pubDate": "Thu, 26 Mar 2026 12:00:00 +0000"
+  },
+  {
     "id": "2026-03-19--14-Google-Stitch-AI-------Meta--Agent---OpenAI-f2f6a8f6",
     "title": "#14 Google Stitch AI设计平台 + Meta流氓Agent + OpenAI云合同矛盾",
     "description": "今天的主题：扩张与失控。Google 把 Stitch 升级成完整 AI 设计平台，自然语言直接出高保真 UI；Meta 内部 AI Agent 意外把公司数据交给了无权限工程师；OpenAI 与 AWS 的新合作可能违反与微软的独占条款。还有：ICML 开始拒稿用 LLM 写审稿意见的论文、Anthropic 发布 8.1 万人 Claude 用户调研、Apple 封堵 vibe-coding 应用发布更新。",
