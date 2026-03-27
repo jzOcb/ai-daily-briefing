@@ -187,6 +187,16 @@
     "fileSize": 10403163
   },
   {
+    "id": "2026-03-27--22-Anthropic------Mythos-53c352a6",
+    "title": "#22 Anthropic 泄露代号 Mythos，说这是推理的阶跃式提升",
+    "description": "今天有七条大新闻：Anthropic 意外泄露超越 Opus 的新模型 Mythos、OpenAI Codex 上线插件市场打通 Slack/Figma/Notion、ARC-AGI-3 宣告前沿 AI 得分不足百分之一、Anthropic 联邦法院禁令胜诉、Mistral 双发 Small 4 和 Voxtral 开源 TTS、Taalos 计划把模型固化进芯片、Meta 监督委员会警告社区笔记应对不了 AI 虚假信息。",
+    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69c6c29203d0321c2d095f26.mp3",
+    "date": "2026-03-27",
+    "duration": 622,
+    "fileSize": 3735530,
+    "pubDate": "Fri, 27 Mar 2026 12:00:00 +0000"
+  },
+  {
     "id": "2026-03-20--15-OpenAI---------Google-AI---------AgentPay-47749129",
     "title": "#15 OpenAI整合超级应用 + Google给AI代理配购物车 + AgentPay给代理发钱包",
     "description": "AI Daily Briefing 2026-03-20",

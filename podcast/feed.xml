@@ -5,7 +5,7 @@
     <description>每天 10 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</description>
     <link>https://jzocb.github.io/ai-daily-briefing/</link>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Mar 2026 21:04:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 17:48:15 +0000</lastBuildDate>
     <itunes:author>JZ Briefing Ops</itunes:author>
     <itunes:summary>每天 10 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</itunes:summary>
     <itunes:category text="Technology" />
@@ -279,6 +279,20 @@
       <itunes:summary>AI Daily Briefing 2026-03-09 | 本期聚焦 AI 工具的双重危机与机遇。一方面，Claude Code 误删开发者两年半生产数据，亚马逊让工程师训练 AI 后直接裁员，引发对 AI 权限和透明度的担忧；另一方面，ByteDance 开源强大的 DeerFlow Agent、Claude 推出虚拟卡支付、印度 Sarvam 开源大模型，AI 能力和生态在快速完善。我们正处于一个关键节点：AI 越来越强大，但可控性和理解能力仍有巨大缺口，需要在赋能与防护之间找到平衡。</itunes:summary>
       <itunes:duration>10:50</itunes:duration>
       <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:image href="https://jzocb.github.io/ai-daily-briefing/podcast-cover.png" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#22 Anthropic 泄露代号 Mythos，说这是推理的阶跃式提升</title>
+      <description>今天有七条大新闻：Anthropic 意外泄露超越 Opus 的新模型 Mythos、OpenAI Codex 上线插件市场打通 Slack/Figma/Notion、ARC-AGI-3 宣告前沿 AI 得分不足百分之一、Anthropic 联邦法院禁令胜诉、Mistral 双发 Small 4 和 Voxtral 开源 TTS、Taalos 计划把模型固化进芯片、Meta 监督委员会警告社区笔记应对不了 AI 虚假信息。</description>
+      <pubDate>Fri, 27 Mar 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-03-27--22-Anthropic------Mythos-53c352a6</guid>
+      <enclosure url="https://assets.listenhub.ai/listenhub-public-prod/podcast/69c6c29203d0321c2d095f26.mp3" type="audio/mpeg" length="3735530" />
+      <itunes:author>JZ Briefing Ops</itunes:author>
+      <itunes:summary>今天有七条大新闻：Anthropic 意外泄露超越 Opus 的新模型 Mythos、OpenAI Codex 上线插件市场打通 Slack/Figma/Notion、ARC-AGI-3 宣告前沿 AI 得分不足百分之一、Anthropic 联邦法院禁令胜诉、Mistral 双发 Small 4 和 Voxtral 开源 TTS、Taalos 计划把模型固化进芯片、Meta 监督委员会警告社区笔记应对不了 AI 虚假信息。</itunes:summary>
+      <itunes:duration>10:22</itunes:duration>
+      <itunes:episode>22</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:image href="https://jzocb.github.io/ai-daily-briefing/podcast-cover.png" />
       <itunes:explicit>false</itunes:explicit>
