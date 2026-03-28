@@ -5,7 +5,7 @@
     <description>每天 10 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</description>
     <link>https://jzocb.github.io/ai-daily-briefing/</link>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Mar 2026 17:48:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 17:17:09 +0000</lastBuildDate>
     <itunes:author>JZ Briefing Ops</itunes:author>
     <itunes:summary>每天 10 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</itunes:summary>
     <itunes:category text="Technology" />
@@ -195,6 +195,23 @@
       <itunes:summary>AI Daily Briefing 2026-03-08 | 本期聚焦 AI 圈的几条重磅消息：OpenAI 硬件负责人因军事合作协议分歧而离职，引发对 AI 伦理决策的深思；Karpathy 开源自主研究工具让 AI 自己优化 AI 训练，同时学术界却被 AI 生成的虚假引用污染；现有 AI agent 基准测试严重偏向编程能力，忽视了 92% 的劳动力市场需求。另外，Claude 在安全审计上展现真实价值，政府政策也在重塑 AI 公司的控制权边界。</itunes:summary>
       <itunes:duration>04:13</itunes:duration>
       <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:image href="https://jzocb.github.io/ai-daily-briefing/podcast-cover.png" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>#23 ✅ LLM via Claude CLI (sonnet)
+#23 Sora宣布全面关停 + Meta Agent自我进化 + AI攻破数学基准</title>
+      <description>✅ LLM via Claude CLI (sonnet)
+AI Daily Briefing 2026-03-28 | 本期聚焦 agent 底座的三方卡位战：Meta 让 agent 学会自我进化、Google 接入 Anthropic 的 MCP 协议、Hermes 开源持久记忆——同一天同时落子。此外，OpenAI 宣布 Sora 将于年内全面关停，Cohere 开源语音识别模型刷新排行榜榜首，而 AI 在数学基准上接连解出"不可能题"，出题人只能不断撤题——人类为 AI 设的天花板，正在实时坍塌。</description>
+      <pubDate>Sat, 28 Mar 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-03-28--23---LLM-via-Claude-CLI--sonnet---23-Sora---------Meta-Agent-------AI-a33b7b63</guid>
+      <enclosure url="https://assets.listenhub.ai/listenhub-public-prod/podcast/69c80cc8c15400d4c4e2f33b.mp3" type="audio/mpeg" length="3202442" />
+      <itunes:author>JZ Briefing Ops</itunes:author>
+      <itunes:summary>✅ LLM via Claude CLI (sonnet)
+AI Daily Briefing 2026-03-28 | 本期聚焦 agent 底座的三方卡位战：Meta 让 agent 学会自我进化、Google 接入 Anthropic 的 MCP 协议、Hermes 开源持久记忆——同一天同时落子。此外，OpenAI 宣布 Sora 将于年内全面关停，Cohere 开源语音识别模型刷新排行榜榜首，而 AI 在数学基准上接连解出"不可能题"，出题人只能不断撤题——人类为 AI 设的天花板，正在实时坍塌。</itunes:summary>
+      <itunes:duration>08:53</itunes:duration>
+      <itunes:episode>23</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:image href="https://jzocb.github.io/ai-daily-briefing/podcast-cover.png" />
       <itunes:explicit>false</itunes:explicit>

@@ -127,6 +127,16 @@
     "fileSize": 4050459
   },
   {
+    "id": "2026-03-28--23---LLM-via-Claude-CLI--sonnet---23-Sora---------Meta-Agent-------AI-a33b7b63",
+    "title": "#23 ✅ LLM via Claude CLI (sonnet)\n#23 Sora宣布全面关停 + Meta Agent自我进化 + AI攻破数学基准",
+    "description": "✅ LLM via Claude CLI (sonnet)\nAI Daily Briefing 2026-03-28 | 本期聚焦 agent 底座的三方卡位战：Meta 让 agent 学会自我进化、Google 接入 Anthropic 的 MCP 协议、Hermes 开源持久记忆——同一天同时落子。此外，OpenAI 宣布 Sora 将于年内全面关停，Cohere 开源语音识别模型刷新排行榜榜首，而 AI 在数学基准上接连解出\"不可能题\"，出题人只能不断撤题——人类为 AI 设的天花板，正在实时坍塌。",
+    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69c80cc8c15400d4c4e2f33b.mp3",
+    "date": "2026-03-28",
+    "duration": 533,
+    "fileSize": 3202442,
+    "pubDate": "Sat, 28 Mar 2026 12:00:00 +0000"
+  },
+  {
     "id": "2026-03-21-AI----------Claude-Code----Browser-Use-2-0-OpenCode---Kimi-K2-5-afdfb0e7",
     "title": "#16 AI编程工具卡位战 — Claude Code团队化·Browser Use 2.0·OpenCode上线·Kimi K2.5被曝光",
     "description": "AI Daily Briefing 2026-03-21: Anthropic Claude Cowork Projects泄露、Browser Use CLI 2.0 CDP原生支持、OpenCode开源编程Agent、Cursor底层Kimi K2.5曝光、Next.js 16.2原生Agent支持、Jensen Huang Token支出论、五角大楼vs Anthropic反转、Google收缩浏览器AI。",
