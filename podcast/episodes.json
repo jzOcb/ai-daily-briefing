@@ -97,6 +97,16 @@
     "pubDate": "Thu, 12 Mar 2026 12:00:00 +0000"
   },
   {
+    "id": "2026-03-29--24-------------LLM-1e42ba50",
+    "title": "#24 有人融了十亿美元，却说 LLM 是死路",
+    "description": "David Silver 纯 RL 路线赌注 | Google 内存优化算法 | Anthropic 付费用户翻倍 | Wikipedia 禁止 AI 内容 | Operon 生物科学 Agent | Claude Code 100% AI 写码 | Stanford 顺从研究 | Gemini Agent Skill | Nous Research Hermes Agent",
+    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69c9332bf440ce97b17d16ea.mp3",
+    "date": "2026-03-29",
+    "duration": 701,
+    "fileSize": 4211594,
+    "pubDate": "Sun, 29 Mar 2026 12:00:00 +0000"
+  },
+  {
     "id": "2026-03-22--17-AI-c6a1a87e",
     "title": "#17 AI自我迭代时代：验证成为新瓶颈",
     "description": "AI Daily Briefing 2026-03-22 | Supermemory声称在LongMemEval上达到99%无需向量数据库；OpenAI发布前端设计提示词手册教你避开AI生成UI通病；陶哲轩深度访谈：AI把创意成本压至零但验证成为新瓶颈；12层模型打赢36层传统模型；MiniMax M2.7据报参与自身训练优化；OpenAI计划扩招至8000人全面进攻企业市场；特朗普AI政策框架落地。",
@@ -127,9 +137,9 @@
     "fileSize": 4050459
   },
   {
-    "id": "2026-03-28--23---LLM-via-Claude-CLI--sonnet---23-Sora---------Meta-Agent-------AI-a33b7b63",
-    "title": "#23 ✅ LLM via Claude CLI (sonnet)\n#23 Sora宣布全面关停 + Meta Agent自我进化 + AI攻破数学基准",
-    "description": "✅ LLM via Claude CLI (sonnet)\nAI Daily Briefing 2026-03-28 | 本期聚焦 agent 底座的三方卡位战：Meta 让 agent 学会自我进化、Google 接入 Anthropic 的 MCP 协议、Hermes 开源持久记忆——同一天同时落子。此外，OpenAI 宣布 Sora 将于年内全面关停，Cohere 开源语音识别模型刷新排行榜榜首，而 AI 在数学基准上接连解出\"不可能题\"，出题人只能不断撤题——人类为 AI 设的天花板，正在实时坍塌。",
+    "id": "2026-03-28--23-Sora-Meta-Agent-AI-a33b7b63",
+    "title": "#23 Sora宣布全面关停 + Meta Agent自我进化 + AI攻破数学基准",
+    "description": "AI Daily Briefing 2026-03-28 | 本期聚焦 agent 底座的三方卡位战：Meta 让 agent 学会自我进化、Google 接入 Anthropic 的 MCP 协议、Hermes 开源持久记忆——同一天同时落子。此外，OpenAI 宣布 Sora 将于年内全面关停，Cohere 开源语音识别模型刷新排行榜榜首，而 AI 在数学基准上接连解出\"不可能题\"，出题人只能不断撤题——人类为 AI 设的天花板，正在实时坍塌。",
     "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69c80cc8c15400d4c4e2f33b.mp3",
     "date": "2026-03-28",
     "duration": 533,
