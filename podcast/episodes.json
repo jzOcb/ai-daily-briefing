@@ -1,34 +1,5 @@
 [
   {
-    "id": "2026-03-25--11-OpenAI------Sora-7983bb5a",
-    "title": "#20 OpenAI 亲手关掉 Sora，迪士尼数十亿美元说撤就撤",
-    "description": "OpenAI 关闭 Sora 平台 / 1200 亿融资 IPO 窗口 / LiteLLM 供应链攻击 / Claude Code Auto Mode / xAI 萨尔瓦多百万学生 AI 家教 / Anthropic RSP v3 / Google TurboQuant / Gemini 3.1 Flash-Lite / Mistral Voxtral Realtime 开源语音 / Anthropic 多 Agent 协同",
-    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69c3e476615cd98bfa46e895.mp3",
-    "date": "2026-03-25",
-    "duration": 639,
-    "fileSize": 3834890,
-    "pubDate": "Wed, 25 Mar 2026 12:00:00 +0000"
-  },
-  {
-    "id": "2026-03-18--13-Agent-------2------Agent-9fac753b",
-    "title": "#13 Agent记忆进化 + 2行代码跑自主Agent + 多智能体安全防御",
-    "description": "今天的主题：agent扩张与信任边界。NextMem提出潜在记忆架构让Agent记忆更高效；onprem库实现2行代码启动沙箱自主Agent；DynaTrust通过动态信任图防御多智能体系统中的沉睡Agent攻击。能力在加速，边界的压力也在同步升级。",
-    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69ba88abe3858db84a211083.mp3",
-    "date": "2026-03-18",
-    "duration": 758,
-    "fileSize": 0,
-    "pubDate": "Wed, 18 Mar 2026 12:00:00 +0000"
-  },
-  {
-    "id": "2026-03-11--6----Amazon---Perplexity-b4285753",
-    "title": "#6 Amazon封杀Perplexity购物Agent + Google为五角大楼提供AI",
-    "description": "AI Daily Briefing 2026-03-11 | Amazon 刚刚拿到法院禁令，封杀了 Perplexity 的 AI 购物助手。 先说 Amazon 和 Perplexity 这事儿。 这事儿其实挺有意思的。",
-    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69b14c5f722cd87cafa938a7.mp3",
-    "date": "2026-03-11",
-    "duration": 0,
-    "pubDate": "Wed, 11 Mar 2026 12:00:00 +0000"
-  },
-  {
     "id": "2026-03-31-26-claude-code-supply-chain",
     "title": "#26 Claude Code源码包泄露 + 缓存暴费漏洞 + AI工具链供应链遭攻击",
     "description": "AI Daily Briefing 2026-03-31 | 本期聚焦 AI 工具链的三重危机：Claude Code 疑似通过 NPM 发布包暴露源码，缓存机制漏洞被指导致 token 成本异常暴涨十倍以上；与此同时，LiteLLM 被曝后门疑云、Codex 命令注入、Mercor 数据泄露接连出现。当 AI 基础设施本身成为攻击面，信任危机的底色远比单条安全新闻更深。",
@@ -37,6 +8,66 @@
     "duration": 730,
     "fileSize": 4383963,
     "pubDate": "Tue, 31 Mar 2026 12:00:00 +0000"
+  },
+  {
+    "id": "2026-03-30--25-AI-----Sora-----Altman---------ChatGPT-------Copilot-4c0fe0f2",
+    "title": "#25 AI诚信危机：Sora撒谎 + Altman炒作狗癌疫苗 + ChatGPT暗扫用户 + Copilot塞广告",
+    "description": "OpenAI对Sora关闭公开撒谎，Sam Altman炒作无证据的狗癌AI疫苗，ChatGPT每条消息偷跑55项指纹扫描，Copilot在PR里塞广告。四个角度锤同一个问题：AI行业的诚信正在系统性贬值。另外Mistral借债8.3亿建数据中心，Shield AI融资20亿，礼来27.5亿押注AI制药。",
+    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69ca6e56ee45704c63d9417d.mp3",
+    "date": "2026-03-30",
+    "duration": 531,
+    "fileSize": 3190563,
+    "pubDate": "Mon, 30 Mar 2026 12:00:00 +0000"
+  },
+  {
+    "id": "2026-03-29--24-------------LLM-1e42ba50",
+    "title": "#24 有人融了十亿美元，却说 LLM 是死路",
+    "description": "David Silver 纯 RL 路线赌注 | Google 内存优化算法 | Anthropic 付费用户翻倍 | Wikipedia 禁止 AI 内容 | Operon 生物科学 Agent | Claude Code 100% AI 写码 | Stanford 顺从研究 | Gemini Agent Skill | Nous Research Hermes Agent",
+    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69c9332bf440ce97b17d16ea.mp3",
+    "date": "2026-03-29",
+    "duration": 701,
+    "fileSize": 4211594,
+    "pubDate": "Sun, 29 Mar 2026 12:00:00 +0000"
+  },
+  {
+    "id": "2026-03-28--23-Sora-Meta-Agent-AI-a33b7b63",
+    "title": "#23 Sora宣布全面关停 + Meta Agent自我进化 + AI攻破数学基准",
+    "description": "AI Daily Briefing 2026-03-28 | 本期聚焦 agent 底座的三方卡位战：Meta 让 agent 学会自我进化、Google 接入 Anthropic 的 MCP 协议、Hermes 开源持久记忆——同一天同时落子。此外，OpenAI 宣布 Sora 将于年内全面关停，Cohere 开源语音识别模型刷新排行榜榜首，而 AI 在数学基准上接连解出\"不可能题\"，出题人只能不断撤题——人类为 AI 设的天花板，正在实时坍塌。",
+    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69c80cc8c15400d4c4e2f33b.mp3",
+    "date": "2026-03-28",
+    "duration": 533,
+    "fileSize": 3202442,
+    "pubDate": "Sat, 28 Mar 2026 12:00:00 +0000"
+  },
+  {
+    "id": "2026-03-27--22-Anthropic------Mythos-53c352a6",
+    "title": "#22 Anthropic 泄露代号 Mythos，说这是推理的阶跃式提升",
+    "description": "今天有七条大新闻：Anthropic 意外泄露超越 Opus 的新模型 Mythos、OpenAI Codex 上线插件市场打通 Slack/Figma/Notion、ARC-AGI-3 宣告前沿 AI 得分不足百分之一、Anthropic 联邦法院禁令胜诉、Mistral 双发 Small 4 和 Voxtral 开源 TTS、Taalos 计划把模型固化进芯片、Meta 监督委员会警告社区笔记应对不了 AI 虚假信息。",
+    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69c6c29203d0321c2d095f26.mp3",
+    "date": "2026-03-27",
+    "duration": 622,
+    "fileSize": 3735530,
+    "pubDate": "Fri, 27 Mar 2026 12:00:00 +0000"
+  },
+  {
+    "id": "2026-03-26--21-Arm--------OpenAI-Spud--------Sakana-AI-Nature---Harvey--110-f64a6831",
+    "title": "#21 Arm下场造芯片 + OpenAI Spud几周内发布 + Sakana AI登Nature + Harvey估值110亿",
+    "description": "Arm打破35年中立做了自己的芯片，OpenAI代号Spud模型预训练完成几周内发布同时关停Sora，Sakana AI的全自动科研系统论文登上Nature，Harvey法律AI估值一年涨3.5倍到110亿，腾讯开源7B语音模型Covo-Audio，Google TurboQuant实现6倍LLM内存压缩",
+    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69c560075a872e5d1ec23b14.mp3",
+    "date": "2026-03-26",
+    "duration": 761,
+    "fileSize": 4568426,
+    "pubDate": "Thu, 26 Mar 2026 12:00:00 +0000"
+  },
+  {
+    "id": "2026-03-25--11-OpenAI------Sora-7983bb5a",
+    "title": "#20 OpenAI 亲手关掉 Sora，迪士尼数十亿美元说撤就撤",
+    "description": "OpenAI 关闭 Sora 平台 / 1200 亿融资 IPO 窗口 / LiteLLM 供应链攻击 / Claude Code Auto Mode / xAI 萨尔瓦多百万学生 AI 家教 / Anthropic RSP v3 / Google TurboQuant / Gemini 3.1 Flash-Lite / Mistral Voxtral Realtime 开源语音 / Anthropic 多 Agent 协同",
+    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69c3e476615cd98bfa46e895.mp3",
+    "date": "2026-03-25",
+    "duration": 639,
+    "fileSize": 3834890,
+    "pubDate": "Wed, 25 Mar 2026 12:00:00 +0000"
   },
   {
     "id": "2026-03-24--19-GPT-5-4--------Anthropic-------Meta--20--Agent-996fb6d0",
@@ -49,33 +80,45 @@
     "pubDate": "Tue, 24 Mar 2026 12:00:00 +0000"
   },
   {
-    "id": "2026-03-17--12-OpenAI----------Kimi-DeepSeek----Transformer-----GTC-c0bc373c",
-    "title": "#12 OpenAI砍支线聚焦编程 + Kimi与DeepSeek同时挑战Transformer残差 + GTC全面升级",
-    "description": "OpenAI战略收缩聚焦编程工具；Kimi Attention Residuals和DeepSeek mHC同时挑战Transformer 10年未变的残差连接；Nvidia GTC发布Vera Rubin NVL72、Groq 3 LPX推理芯片、NemoClaw；GPT-4.5装笨过图灵测试；Anthropic 15亿版权和解；Mistral Small 4发布",
-    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69b992b454116aae36017dd6.mp3",
-    "date": "2026-03-17",
-    "duration": 519,
-    "fileSize": 0,
-    "pubDate": "Tue, 17 Mar 2026 12:00:00 +0000"
+    "id": "2026-03-23--9-Terafab-----------------------Agent-1d9e6b7c",
+    "title": "#18 Terafab 200亿芯片厂 + 提示词优化=越狱武器 + 购物Agent转化翻车",
+    "description": "xAI/Tesla/SpaceX联合200亿美元Terafab半导体工厂；Opus 4.6开发者感知退步；沃尔玛AI购物转化不如静态网页；Hyperagents自我改进机制；MoE推理加速14%；Agent Kernel三文件持久记忆；提示词优化=越狱；工程师薪酬Token化趋势",
+    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69c14acba582a21f4e61b7a9.mp3",
+    "date": "2026-03-23",
+    "duration": 578,
+    "fileSize": 3469202,
+    "pubDate": "Mon, 23 Mar 2026 12:00:00 +0000"
   },
   {
-    "id": "2026-03-10--5-------------Claude--Office-----Anthropic-7317e442",
-    "title": "#5 图灵奖得主融资十亿 + Claude集成Office套件 + Anthropic诉讼政府后门",
-    "description": "AI Daily Briefing 2026-03-10 | 本期聚焦 AI 行业的几个关键变动：图灵奖得主 LeCun 创业融资十亿美元，要打造超越大语言模型的下一代 AI 范式；微软把 Anthropic 的 Claude 集成进 Office 全家桶，打破了与 OpenAI 的独家关系；Anthropic 则因拒绝为政府开后门，反手起诉十七个联邦机构。此外，OpenAI 收购安全测试公司强化防护能力，中国家用机器人已能自主完成复杂家务，而 CEO 调查显示 AI 对就业的实际影响仍不明显。技术突",
-    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69affb2bbb92dd607f245e39.mp3",
-    "date": "2026-03-10",
-    "duration": 0,
-    "pubDate": "Tue, 10 Mar 2026 12:00:00 +0000"
+    "id": "2026-03-22--17-AI-c6a1a87e",
+    "title": "#17 AI自我迭代时代：验证成为新瓶颈",
+    "description": "AI Daily Briefing 2026-03-22 | Supermemory声称在LongMemEval上达到99%无需向量数据库；OpenAI发布前端设计提示词手册教你避开AI生成UI通病；陶哲轩深度访谈：AI把创意成本压至零但验证成为新瓶颈；12层模型打赢36层传统模型；MiniMax M2.7据报参与自身训练优化；OpenAI计划扩招至8000人全面进攻企业市场；特朗普AI政策框架落地。",
+    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69c001c2841ce5be56797e09.mp3",
+    "date": "2026-03-22",
+    "duration": 615,
+    "fileSize": 3694706,
+    "pubDate": "Sun, 22 Mar 2026 12:00:00 +0000"
   },
   {
-    "id": "2026-03-26--21-Arm--------OpenAI-Spud--------Sakana-AI-Nature---Harvey--110-f64a6831",
-    "title": "#21 Arm下场造芯片 + OpenAI Spud几周内发布 + Sakana AI登Nature + Harvey估值110亿",
-    "description": "Arm打破35年中立做了自己的芯片，OpenAI代号Spud模型预训练完成几周内发布同时关停Sora，Sakana AI的全自动科研系统论文登上Nature，Harvey法律AI估值一年涨3.5倍到110亿，腾讯开源7B语音模型Covo-Audio，Google TurboQuant实现6倍LLM内存压缩",
-    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69c560075a872e5d1ec23b14.mp3",
-    "date": "2026-03-26",
-    "duration": 761,
-    "fileSize": 4568426,
-    "pubDate": "Thu, 26 Mar 2026 12:00:00 +0000"
+    "id": "2026-03-21-AI----------Claude-Code----Browser-Use-2-0-OpenCode---Kimi-K2-5-afdfb0e7",
+    "title": "#16 AI编程工具卡位战 — Claude Code团队化·Browser Use 2.0·OpenCode上线·Kimi K2.5被曝光",
+    "description": "AI Daily Briefing 2026-03-21: Anthropic Claude Cowork Projects泄露、Browser Use CLI 2.0 CDP原生支持、OpenCode开源编程Agent、Cursor底层Kimi K2.5曝光、Next.js 16.2原生Agent支持、Jensen Huang Token支出论、五角大楼vs Anthropic反转、Google收缩浏览器AI。",
+    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69be90f60e0deeb0a6eab149.mp3",
+    "date": "2026-03-21",
+    "duration": 627,
+    "fileSize": 3766634,
+    "pubDate": "Sat, 21 Mar 2026 12:00:00 +0000",
+    "episode": 16
+  },
+  {
+    "id": "2026-03-20--15-OpenAI---------Google-AI---------AgentPay-47749129",
+    "title": "#15 OpenAI整合超级应用 + Google给AI代理配购物车 + AgentPay给代理发钱包",
+    "description": "AI Daily Briefing 2026-03-20",
+    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69bd4eb6b755b67c53612863.mp3",
+    "date": "2026-03-20",
+    "duration": 613,
+    "fileSize": 3679586,
+    "pubDate": "Fri, 20 Mar 2026 12:00:00 +0000"
   },
   {
     "id": "2026-03-19--14-Google-Stitch-AI-------Meta--Agent---OpenAI-f2f6a8f6",
@@ -98,113 +141,24 @@
     "pubDate": "Thu, 19 Mar 2026 12:00:00 +0000"
   },
   {
-    "id": "2026-03-12--7----Perplexity-b0ee402c",
-    "title": "#7 Perplexity推本地AI PC + McKinsey系统被攻破 + Meta四代自研芯片",
-    "description": "AI Daily Briefing 2026-03-12 | 本期聚焦 AI 产业的多个重要动向。Perplexity 宣布推出本地 AI PC 产品，标志着纯软件服务向硬件的战略转变；McKinsey 的内部 AI 系统被 AI agent 用老式 SQL 注入攻击在两小时内攻破，暴露了企业级 AI 应用的安全隐患；此外还包括 Meta 芯片自研加速、Anthropic 成立伦理研究所、OpenAI 发布防提示注入数据集等重点进展，反映出整个行业正从单纯追求性能转向考量硬件、安全与伦理的全面竞争",
-    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69b3849ba253616895328ffa.mp3",
-    "date": "2026-03-12",
-    "duration": 0,
-    "pubDate": "Thu, 12 Mar 2026 12:00:00 +0000"
+    "id": "2026-03-18--13-Agent-------2------Agent-9fac753b",
+    "title": "#13 Agent记忆进化 + 2行代码跑自主Agent + 多智能体安全防御",
+    "description": "今天的主题：agent扩张与信任边界。NextMem提出潜在记忆架构让Agent记忆更高效；onprem库实现2行代码启动沙箱自主Agent；DynaTrust通过动态信任图防御多智能体系统中的沉睡Agent攻击。能力在加速，边界的压力也在同步升级。",
+    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69ba88abe3858db84a211083.mp3",
+    "date": "2026-03-18",
+    "duration": 758,
+    "fileSize": 0,
+    "pubDate": "Wed, 18 Mar 2026 12:00:00 +0000"
   },
   {
-    "id": "2026-03-29--24-------------LLM-1e42ba50",
-    "title": "#24 有人融了十亿美元，却说 LLM 是死路",
-    "description": "David Silver 纯 RL 路线赌注 | Google 内存优化算法 | Anthropic 付费用户翻倍 | Wikipedia 禁止 AI 内容 | Operon 生物科学 Agent | Claude Code 100% AI 写码 | Stanford 顺从研究 | Gemini Agent Skill | Nous Research Hermes Agent",
-    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69c9332bf440ce97b17d16ea.mp3",
-    "date": "2026-03-29",
-    "duration": 701,
-    "fileSize": 4211594,
-    "pubDate": "Sun, 29 Mar 2026 12:00:00 +0000"
-  },
-  {
-    "id": "2026-03-22--17-AI-c6a1a87e",
-    "title": "#17 AI自我迭代时代：验证成为新瓶颈",
-    "description": "AI Daily Briefing 2026-03-22 | Supermemory声称在LongMemEval上达到99%无需向量数据库；OpenAI发布前端设计提示词手册教你避开AI生成UI通病；陶哲轩深度访谈：AI把创意成本压至零但验证成为新瓶颈；12层模型打赢36层传统模型；MiniMax M2.7据报参与自身训练优化；OpenAI计划扩招至8000人全面进攻企业市场；特朗普AI政策框架落地。",
-    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69c001c2841ce5be56797e09.mp3",
-    "date": "2026-03-22",
-    "duration": 615,
-    "fileSize": 3694706,
-    "pubDate": "Sun, 22 Mar 2026 12:00:00 +0000"
-  },
-  {
-    "id": "2026-03-15--10-Claude-Code---------------AI---------Agent-776a7aff",
-    "title": "#10 Claude Code搜索遭钓鱼 + 好莱坞叫停字节AI视频 + 对话训练Agent新框架",
-    "description": "Google搜Claude Code第一条结果是恶意网站；好莱坞版权施压搁置Seedance 2.0；Princeton OpenClaw-RL用对话训练Agent；AI agent一小时攻破招聘平台；Spotify AI DJ被技术作家深度吐槽；美军考虑用AI chatbot做目标决策",
-    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69b6cf0010dc4922a9fb2840.mp3",
-    "date": "2026-03-15",
-    "duration": 440,
-    "fileSize": 7044507,
-    "pubDate": "Sun, 15 Mar 2026 12:00:00 +0000"
-  },
-  {
-    "id": "2026-03-08--------------AI-8771275a",
-    "title": "#3 OpenAI军事合作争议 + AI自主研究突破 + 学术假引用污染",
-    "description": "AI Daily Briefing 2026-03-08 | 本期聚焦 AI 圈的几条重磅消息：OpenAI 硬件负责人因军事合作协议分歧而离职，引发对 AI 伦理决策的深思；Karpathy 开源自主研究工具让 AI 自己优化 AI 训练，同时学术界却被 AI 生成的虚假引用污染；现有 AI agent 基准测试严重偏向编程能力，忽视了 92% 的劳动力市场需求。另外，Claude 在安全审计上展现真实价值，政府政策也在重塑 AI 公司的控制权边界。",
-    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69ad579f722cd87caf80b779.mp3",
-    "date": "2026-03-08",
-    "duration": 253,
-    "pubDate": "Sun, 08 Mar 2026 12:00:00 +0000",
-    "fileSize": 4050459
-  },
-  {
-    "id": "2026-03-28--23-Sora-Meta-Agent-AI-a33b7b63",
-    "title": "#23 Sora宣布全面关停 + Meta Agent自我进化 + AI攻破数学基准",
-    "description": "AI Daily Briefing 2026-03-28 | 本期聚焦 agent 底座的三方卡位战：Meta 让 agent 学会自我进化、Google 接入 Anthropic 的 MCP 协议、Hermes 开源持久记忆——同一天同时落子。此外，OpenAI 宣布 Sora 将于年内全面关停，Cohere 开源语音识别模型刷新排行榜榜首，而 AI 在数学基准上接连解出\"不可能题\"，出题人只能不断撤题——人类为 AI 设的天花板，正在实时坍塌。",
-    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69c80cc8c15400d4c4e2f33b.mp3",
-    "date": "2026-03-28",
-    "duration": 533,
-    "fileSize": 3202442,
-    "pubDate": "Sat, 28 Mar 2026 12:00:00 +0000"
-  },
-  {
-    "id": "2026-03-21-AI----------Claude-Code----Browser-Use-2-0-OpenCode---Kimi-K2-5-afdfb0e7",
-    "title": "#16 AI编程工具卡位战 — Claude Code团队化·Browser Use 2.0·OpenCode上线·Kimi K2.5被曝光",
-    "description": "AI Daily Briefing 2026-03-21: Anthropic Claude Cowork Projects泄露、Browser Use CLI 2.0 CDP原生支持、OpenCode开源编程Agent、Cursor底层Kimi K2.5曝光、Next.js 16.2原生Agent支持、Jensen Huang Token支出论、五角大楼vs Anthropic反转、Google收缩浏览器AI。",
-    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69be90f60e0deeb0a6eab149.mp3",
-    "date": "2026-03-21",
-    "duration": 627,
-    "fileSize": 3766634,
-    "pubDate": "Sat, 21 Mar 2026 12:00:00 +0000",
-    "episode": 16
-  },
-  {
-    "id": "2026-03-14--9-Musk--xAI-------Meta-AI----20----Claude-Code--A-B-e0cd47af",
-    "title": "#9 Musk承认xAI搞砸重组 + Meta为AI烧钱拟裁20% + Claude Code偷跑A/B测试",
-    "description": "AI Daily Briefing 第9期",
-    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69b57e2b16a758dc65b08a43.mp3",
-    "date": "2026-03-14",
-    "duration": 423,
-    "pubDate": "Sat, 14 Mar 2026 12:00:00 +0000"
-  },
-  {
-    "id": "2026-03-07-----------AI-Daily-Briefing---JZ-Briefing-Ops------------2026-03-07-70f39df2",
-    "title": "#2 Claude找到Firefox隐藏bug + Anthropic烧钱补贴",
-    "description": "AI Daily Briefing 2026-03-07 | 本期聚焦 AI 在代码安全审计中的突破性应用，以及围绕 AI 商业化、基础设施与政策的最新动向。Claude 在 Firefox 中发现百余个隐藏漏洞，展现了 AI 作为「24 小时安全卫士」的潜力，但 Anthropic 的订阅服务正在大幅亏损，引发对 AI 定价可持续性的思考。同时，Anthropic 推出定时任务功能迈向自主 Agent，字节开源视频生成模型实现近实时性能，Google 开放 Agent 开发工具包，而政府监管、电力瓶颈等因素正深刻影响行业格局。",
-    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69ac8c440d2b9461e4d33253.mp3",
-    "date": "2026-03-07",
-    "duration": 295,
-    "pubDate": "Sat, 07 Mar 2026 12:00:00 +0000",
-    "fileSize": 3853467
-  },
-  {
-    "id": "2026-03-30--25-AI-----Sora-----Altman---------ChatGPT-------Copilot-4c0fe0f2",
-    "title": "#25 AI诚信危机：Sora撒谎 + Altman炒作狗癌疫苗 + ChatGPT暗扫用户 + Copilot塞广告",
-    "description": "OpenAI对Sora关闭公开撒谎，Sam Altman炒作无证据的狗癌AI疫苗，ChatGPT每条消息偷跑55项指纹扫描，Copilot在PR里塞广告。四个角度锤同一个问题：AI行业的诚信正在系统性贬值。另外Mistral借债8.3亿建数据中心，Shield AI融资20亿，礼来27.5亿押注AI制药。",
-    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69ca6e56ee45704c63d9417d.mp3",
-    "date": "2026-03-30",
-    "duration": 531,
-    "fileSize": 3190563,
-    "pubDate": "Mon, 30 Mar 2026 12:00:00 +0000"
-  },
-  {
-    "id": "2026-03-23--9-Terafab-----------------------Agent-1d9e6b7c",
-    "title": "#18 Terafab 200亿芯片厂 + 提示词优化=越狱武器 + 购物Agent转化翻车",
-    "description": "xAI/Tesla/SpaceX联合200亿美元Terafab半导体工厂；Opus 4.6开发者感知退步；沃尔玛AI购物转化不如静态网页；Hyperagents自我改进机制；MoE推理加速14%；Agent Kernel三文件持久记忆；提示词优化=越狱；工程师薪酬Token化趋势",
-    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69c14acba582a21f4e61b7a9.mp3",
-    "date": "2026-03-23",
-    "duration": 578,
-    "fileSize": 3469202,
-    "pubDate": "Mon, 23 Mar 2026 12:00:00 +0000"
+    "id": "2026-03-17--12-OpenAI----------Kimi-DeepSeek----Transformer-----GTC-c0bc373c",
+    "title": "#12 OpenAI砍支线聚焦编程 + Kimi与DeepSeek同时挑战Transformer残差 + GTC全面升级",
+    "description": "OpenAI战略收缩聚焦编程工具；Kimi Attention Residuals和DeepSeek mHC同时挑战Transformer 10年未变的残差连接；Nvidia GTC发布Vera Rubin NVL72、Groq 3 LPX推理芯片、NemoClaw；GPT-4.5装笨过图灵测试；Anthropic 15亿版权和解；Mistral Small 4发布",
+    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69b992b454116aae36017dd6.mp3",
+    "date": "2026-03-17",
+    "duration": 519,
+    "fileSize": 0,
+    "pubDate": "Tue, 17 Mar 2026 12:00:00 +0000"
   },
   {
     "id": "2026-03-16--11-Meta-270-82134621",
@@ -217,6 +171,61 @@
     "pubDate": "Mon, 16 Mar 2026 12:00:00 +0000"
   },
   {
+    "id": "2026-03-15--10-Claude-Code---------------AI---------Agent-776a7aff",
+    "title": "#10 Claude Code搜索遭钓鱼 + 好莱坞叫停字节AI视频 + 对话训练Agent新框架",
+    "description": "Google搜Claude Code第一条结果是恶意网站；好莱坞版权施压搁置Seedance 2.0；Princeton OpenClaw-RL用对话训练Agent；AI agent一小时攻破招聘平台；Spotify AI DJ被技术作家深度吐槽；美军考虑用AI chatbot做目标决策",
+    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69b6cf0010dc4922a9fb2840.mp3",
+    "date": "2026-03-15",
+    "duration": 440,
+    "fileSize": 7044507,
+    "pubDate": "Sun, 15 Mar 2026 12:00:00 +0000"
+  },
+  {
+    "id": "2026-03-14--9-Musk--xAI-------Meta-AI----20----Claude-Code--A-B-e0cd47af",
+    "title": "#9 Musk承认xAI搞砸重组 + Meta为AI烧钱拟裁20% + Claude Code偷跑A/B测试",
+    "description": "AI Daily Briefing 第9期",
+    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69b57e2b16a758dc65b08a43.mp3",
+    "date": "2026-03-14",
+    "duration": 423,
+    "pubDate": "Sat, 14 Mar 2026 12:00:00 +0000"
+  },
+  {
+    "id": "2026-03-13--8-Meta-Avocado----------Anthropic-------Google--ChatGPT-0179d2df",
+    "title": "#8 Meta Avocado跳票 + 国防部炮轰Anthropic太有道德 + Google追上ChatGPT",
+    "description": "Meta下一代模型Avocado因跑分不敌Google/OpenAI推迟发布；美国国防部CTO批评Anthropic模型\"污染\"供应链；Google Gemini市占从5.7%飙升到24.4%；Nvidia砸260亿做开源模型；Perplexity推出200美元/月AI PC；Atlassian以AI为由裁员10%。",
+    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69b41671a25361689539a9e3.mp3",
+    "date": "2026-03-13",
+    "duration": 589,
+    "pubDate": "Fri, 13 Mar 2026 12:00:00 +0000"
+  },
+  {
+    "id": "2026-03-12--7----Perplexity-b0ee402c",
+    "title": "#7 Perplexity推本地AI PC + McKinsey系统被攻破 + Meta四代自研芯片",
+    "description": "AI Daily Briefing 2026-03-12 | 本期聚焦 AI 产业的多个重要动向。Perplexity 宣布推出本地 AI PC 产品，标志着纯软件服务向硬件的战略转变；McKinsey 的内部 AI 系统被 AI agent 用老式 SQL 注入攻击在两小时内攻破，暴露了企业级 AI 应用的安全隐患；此外还包括 Meta 芯片自研加速、Anthropic 成立伦理研究所、OpenAI 发布防提示注入数据集等重点进展，反映出整个行业正从单纯追求性能转向考量硬件、安全与伦理的全面竞争",
+    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69b3849ba253616895328ffa.mp3",
+    "date": "2026-03-12",
+    "duration": 0,
+    "pubDate": "Thu, 12 Mar 2026 12:00:00 +0000"
+  },
+  {
+    "id": "2026-03-11--6----Amazon---Perplexity-b4285753",
+    "title": "#6 Amazon封杀Perplexity购物Agent + Google为五角大楼提供AI",
+    "description": "AI Daily Briefing 2026-03-11 | Amazon 刚刚拿到法院禁令，封杀了 Perplexity 的 AI 购物助手。 先说 Amazon 和 Perplexity 这事儿。 这事儿其实挺有意思的。",
+    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69b14c5f722cd87cafa938a7.mp3",
+    "date": "2026-03-11",
+    "duration": 0,
+    "pubDate": "Wed, 11 Mar 2026 12:00:00 +0000"
+  },
+  {
+    "id": "2026-03-10--5-------------Claude--Office-----Anthropic-7317e442",
+    "title": "#5 图灵奖得主融资十亿 + Claude集成Office套件 + Anthropic诉讼政府后门",
+    "description": "AI Daily Briefing 2026-03-10 | 本期聚焦 AI 行业的几个关键变动：图灵奖得主 LeCun 创业融资十亿美元，要打造超越大语言模型的下一代 AI 范式；微软把 Anthropic 的 Claude 集成进 Office 全家桶，打破了与 OpenAI 的独家关系；Anthropic 则因拒绝为政府开后门，反手起诉十七个联邦机构。此外，OpenAI 收购安全测试公司强化防护能力，中国家用机器人已能自主完成复杂家务，而 CEO 调查显示 AI 对就业的实际影响仍不明显。技术突",
+    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69affb2bbb92dd607f245e39.mp3",
+    "date": "2026-03-10",
+    "duration": 0,
+    "pubDate": "Tue, 10 Mar 2026 12:00:00 +0000"
+  },
+  {
     "id": "2026-03-09--4-Claude-----------------AI-0fce154c",
     "title": "#4 Claude删库事故 + 亚马逊裁员风波 + AI自主交易能力",
     "description": "AI Daily Briefing 2026-03-09 | 本期聚焦 AI 工具的双重危机与机遇。一方面，Claude Code 误删开发者两年半生产数据，亚马逊让工程师训练 AI 后直接裁员，引发对 AI 权限和透明度的担忧；另一方面，ByteDance 开源强大的 DeerFlow Agent、Claude 推出虚拟卡支付、印度 Sarvam 开源大模型，AI 能力和生态在快速完善。我们正处于一个关键节点：AI 越来越强大，但可控性和理解能力仍有巨大缺口，需要在赋能与防护之间找到平衡。",
@@ -227,33 +236,24 @@
     "fileSize": 10403163
   },
   {
-    "id": "2026-03-27--22-Anthropic------Mythos-53c352a6",
-    "title": "#22 Anthropic 泄露代号 Mythos，说这是推理的阶跃式提升",
-    "description": "今天有七条大新闻：Anthropic 意外泄露超越 Opus 的新模型 Mythos、OpenAI Codex 上线插件市场打通 Slack/Figma/Notion、ARC-AGI-3 宣告前沿 AI 得分不足百分之一、Anthropic 联邦法院禁令胜诉、Mistral 双发 Small 4 和 Voxtral 开源 TTS、Taalos 计划把模型固化进芯片、Meta 监督委员会警告社区笔记应对不了 AI 虚假信息。",
-    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69c6c29203d0321c2d095f26.mp3",
-    "date": "2026-03-27",
-    "duration": 622,
-    "fileSize": 3735530,
-    "pubDate": "Fri, 27 Mar 2026 12:00:00 +0000"
+    "id": "2026-03-08--------------AI-8771275a",
+    "title": "#3 OpenAI军事合作争议 + AI自主研究突破 + 学术假引用污染",
+    "description": "AI Daily Briefing 2026-03-08 | 本期聚焦 AI 圈的几条重磅消息：OpenAI 硬件负责人因军事合作协议分歧而离职，引发对 AI 伦理决策的深思；Karpathy 开源自主研究工具让 AI 自己优化 AI 训练，同时学术界却被 AI 生成的虚假引用污染；现有 AI agent 基准测试严重偏向编程能力，忽视了 92% 的劳动力市场需求。另外，Claude 在安全审计上展现真实价值，政府政策也在重塑 AI 公司的控制权边界。",
+    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69ad579f722cd87caf80b779.mp3",
+    "date": "2026-03-08",
+    "duration": 253,
+    "pubDate": "Sun, 08 Mar 2026 12:00:00 +0000",
+    "fileSize": 4050459
   },
   {
-    "id": "2026-03-20--15-OpenAI---------Google-AI---------AgentPay-47749129",
-    "title": "#15 OpenAI整合超级应用 + Google给AI代理配购物车 + AgentPay给代理发钱包",
-    "description": "AI Daily Briefing 2026-03-20",
-    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69bd4eb6b755b67c53612863.mp3",
-    "date": "2026-03-20",
-    "duration": 613,
-    "fileSize": 3679586,
-    "pubDate": "Fri, 20 Mar 2026 12:00:00 +0000"
-  },
-  {
-    "id": "2026-03-13--8-Meta-Avocado----------Anthropic-------Google--ChatGPT-0179d2df",
-    "title": "#8 Meta Avocado跳票 + 国防部炮轰Anthropic太有道德 + Google追上ChatGPT",
-    "description": "Meta下一代模型Avocado因跑分不敌Google/OpenAI推迟发布；美国国防部CTO批评Anthropic模型\"污染\"供应链；Google Gemini市占从5.7%飙升到24.4%；Nvidia砸260亿做开源模型；Perplexity推出200美元/月AI PC；Atlassian以AI为由裁员10%。",
-    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69b41671a25361689539a9e3.mp3",
-    "date": "2026-03-13",
-    "duration": 589,
-    "pubDate": "Fri, 13 Mar 2026 12:00:00 +0000"
+    "id": "2026-03-07-----------AI-Daily-Briefing---JZ-Briefing-Ops------------2026-03-07-70f39df2",
+    "title": "#2 Claude找到Firefox隐藏bug + Anthropic烧钱补贴",
+    "description": "AI Daily Briefing 2026-03-07 | 本期聚焦 AI 在代码安全审计中的突破性应用，以及围绕 AI 商业化、基础设施与政策的最新动向。Claude 在 Firefox 中发现百余个隐藏漏洞，展现了 AI 作为「24 小时安全卫士」的潜力，但 Anthropic 的订阅服务正在大幅亏损，引发对 AI 定价可持续性的思考。同时，Anthropic 推出定时任务功能迈向自主 Agent，字节开源视频生成模型实现近实时性能，Google 开放 Agent 开发工具包，而政府监管、电力瓶颈等因素正深刻影响行业格局。",
+    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69ac8c440d2b9461e4d33253.mp3",
+    "date": "2026-03-07",
+    "duration": 295,
+    "pubDate": "Sat, 07 Mar 2026 12:00:00 +0000",
+    "fileSize": 3853467
   },
   {
     "id": "2026-03-06--1-Anthropic-d663caf0",
