@@ -1,5 +1,15 @@
 [
   {
+    "id": "2026-04-01--27-Claude-Code---------Claude--FreeBSD-------OpenAI-8a6e83a2",
+    "title": "#27 Claude Code源码意外泄露 + Claude独挖FreeBSD内核漏洞 + OpenAI超级应用融资传闻",
+    "description": "AI Daily Briefing 2026-04-01 | 本期聚焦三件同时发生、指向同一方向的事：Claude Code 源码意外随包管理平台泄露，五十万行内部逻辑就此摊开，agent 产品的黑箱第一次被公开拆解；Claude 独立挖出 FreeBSD 内核远程代码执行漏洞并写出 Root Shell 利用链，AI 从辅助工具迈向主动行动者的边界正在移动；OpenAI 超级应用叙事与天价估值传闻同步浮出，入口争夺战进入新阶段。三条线背后是同一个问题：当 AI 开始自主决策，透明度和可核验性还剩多少？",
+    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69cd70b678f6fa7a5eaec1e6.mp3",
+    "date": "2026-04-01",
+    "duration": 762,
+    "fileSize": 4576635,
+    "pubDate": "Wed, 01 Apr 2026 12:00:00 +0000"
+  },
+  {
     "id": "2026-03-31-26-claude-code-supply-chain",
     "title": "#26 Claude Code源码包泄露 + 缓存暴费漏洞 + AI工具链供应链遭攻击",
     "description": "AI Daily Briefing 2026-03-31 | 本期聚焦 AI 工具链的三重危机：Claude Code 疑似通过 NPM 发布包暴露源码，缓存机制漏洞被指导致 token 成本异常暴涨十倍以上；与此同时，LiteLLM 被曝后门疑云、Codex 命令注入、Mercor 数据泄露接连出现。当 AI 基础设施本身成为攻击面，信任危机的底色远比单条安全新闻更深。",
