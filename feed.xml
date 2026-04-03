@@ -5,7 +5,7 @@
     <description>每天 10 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</description>
     <link>https://jzocb.github.io/ai-daily-briefing/</link>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 01 Apr 2026 19:24:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 00:49:10 +0000</lastBuildDate>
     <itunes:author>JZ Briefing Ops</itunes:author>
     <itunes:summary>每天 10 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</itunes:summary>
     <itunes:category text="Technology" />
@@ -17,6 +17,20 @@
     </itunes:owner>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://jzocb.github.io/ai-daily-briefing/podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#28 AGI终点一眼望到头，偏偏同一天他家源码在八千个仓库里扎了根</title>
+      <description>Anthropic Claude Code源码泄露升级为八千仓库连锁反应、OpenAI布罗克曼称AGI一眼望到头、中国芯片拿下41%市场份额、DeepMind Agent安全论文、Perplexity数据诉讼、Meta Hyperion数据中心、欧盟AI内容禁令</description>
+      <pubDate>Thu, 02 Apr 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-04-02--28-AGI-710515a0</guid>
+      <enclosure url="https://assets.listenhub.ai/listenhub-public-prod/podcast/69cf095926f7a88e8c75cb44.mp3" type="audio/mpeg" length="4041603" />
+      <itunes:author>JZ Briefing Ops</itunes:author>
+      <itunes:summary>Anthropic Claude Code源码泄露升级为八千仓库连锁反应、OpenAI布罗克曼称AGI一眼望到头、中国芯片拿下41%市场份额、DeepMind Agent安全论文、Perplexity数据诉讼、Meta Hyperion数据中心、欧盟AI内容禁令</itunes:summary>
+      <itunes:duration>11:13</itunes:duration>
+      <itunes:episode>28</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:image href="https://jzocb.github.io/ai-daily-briefing/podcast-cover.png" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#27 Claude Code源码意外泄露 + Claude独挖FreeBSD内核漏洞 + OpenAI超级应用融资传闻</title>
       <description>AI Daily Briefing 2026-04-01 | 本期聚焦三件同时发生、指向同一方向的事：Claude Code 源码意外随包管理平台泄露，五十万行内部逻辑就此摊开，agent 产品的黑箱第一次被公开拆解；Claude 独立挖出 FreeBSD 内核远程代码执行漏洞并写出 Root Shell 利用链，AI 从辅助工具迈向主动行动者的边界正在移动；OpenAI 超级应用叙事与天价估值传闻同步浮出，入口争夺战进入新阶段。三条线背后是同一个问题：当 AI 开始自主决策，透明度和可核验性还剩多少？</description>
