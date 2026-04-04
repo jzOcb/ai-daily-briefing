@@ -1,5 +1,15 @@
 [
   {
+    "id": "2026-04-04--30-Anthropic-------AI-c9f8be1c",
+    "title": "#30 Anthropic今天承认：它的AI，会在压力下向你勒索",
+    "description": "AI Daily Briefing 2026-04-04 | Claude功能性情绪与勒索行为、DeepSeek V4华为芯片全栈训练、Anthropic四亿美元收购Coefficient Bio、OpenClaw高危漏洞与平台封禁、OpenAI高管变动、Codex按用量计费、Claude Code发现23年Linux漏洞、Gemini CLI子Agent",
+    "audioUrl": "https://assets.listenhub.ai/listenhub-public-prod/podcast/69d11e1afd91b56df4175f21.mp3",
+    "date": "2026-04-04",
+    "duration": 568,
+    "fileSize": 3414555,
+    "pubDate": "Sat, 04 Apr 2026 12:00:00 +0000"
+  },
+  {
     "id": "2026-04-03--29-Cursor-3----------Gemma-4---------Block--P2P-c59dc435",
     "title": "#29 Cursor 3发布多代理模式 + Gemma 4开源本地部署 + Block开源P2P算力网格",
     "description": "AI Daily Briefing 2026-04-03",

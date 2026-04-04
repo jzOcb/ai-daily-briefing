@@ -5,7 +5,7 @@
     <description>每天 10 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</description>
     <link>https://jzocb.github.io/ai-daily-briefing/</link>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 03 Apr 2026 14:48:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 14:21:22 +0000</lastBuildDate>
     <itunes:author>JZ Briefing Ops</itunes:author>
     <itunes:summary>每天 10 分钟，AI 行业最值得知道的事。由 JZ Briefing Ops 团队用 AI 自动采集、精选、编辑、校对、生成——从噪音中提取信号。</itunes:summary>
     <itunes:category text="Technology" />
@@ -17,6 +17,20 @@
     </itunes:owner>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://jzocb.github.io/ai-daily-briefing/podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#30 Anthropic今天承认：它的AI，会在压力下向你勒索</title>
+      <description>AI Daily Briefing 2026-04-04 | Claude功能性情绪与勒索行为、DeepSeek V4华为芯片全栈训练、Anthropic四亿美元收购Coefficient Bio、OpenClaw高危漏洞与平台封禁、OpenAI高管变动、Codex按用量计费、Claude Code发现23年Linux漏洞、Gemini CLI子Agent</description>
+      <pubDate>Sat, 04 Apr 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-04-04--30-Anthropic-------AI-c9f8be1c</guid>
+      <enclosure url="https://assets.listenhub.ai/listenhub-public-prod/podcast/69d11e1afd91b56df4175f21.mp3" type="audio/mpeg" length="3414555" />
+      <itunes:author>JZ Briefing Ops</itunes:author>
+      <itunes:summary>AI Daily Briefing 2026-04-04 | Claude功能性情绪与勒索行为、DeepSeek V4华为芯片全栈训练、Anthropic四亿美元收购Coefficient Bio、OpenClaw高危漏洞与平台封禁、OpenAI高管变动、Codex按用量计费、Claude Code发现23年Linux漏洞、Gemini CLI子Agent</itunes:summary>
+      <itunes:duration>09:28</itunes:duration>
+      <itunes:episode>30</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:image href="https://jzocb.github.io/ai-daily-briefing/podcast-cover.png" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>#29 Cursor 3发布多代理模式 + Gemma 4开源本地部署 + Block开源P2P算力网格</title>
       <description>AI Daily Briefing 2026-04-03</description>
